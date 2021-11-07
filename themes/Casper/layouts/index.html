@@ -22,13 +22,26 @@
     </div>
 </header>
 
+
+
 <main id="site-main" class="site-main outer">
     <div class="inner posts">
         <div class="post-feed">
-            {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-            {{ range $index, $element := $pages }}
-                {{- partial "post-card.html" (dict "context" . "index" $index "home" $.IsHome) -}}
-            {{ end }}
+
+
+                        <article class="post-card post">
+                        <img class=post-card-image src=/uploads/good-luck-2426177_960_720.jpg alt="Leamprov Group Photo">
+                        <div class=post-card-content>
+                            <a class=post-card-content-link href=https://weddingplanningbooks.com/how-to-write-your-wedding-vows-writing-checklist/>
+                                <header class=post-card-header>
+                                    <h2 class=post-card-title>{{.Title}}</h2>
+                                </header>
+                                <section class=post-card-excerpt>
+                                    <p>{{.Content}}</p>
+                                </section>
+                            </a>
+                        </div>
+                    </article>
         </div>
     </div>
 </main>

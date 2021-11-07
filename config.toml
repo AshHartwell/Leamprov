@@ -10,9 +10,10 @@ URL = "s3://www.leamprov.com?region=eu-west-2"
 name = "AWS"
 [params]
 description = "Leamington Spa Improvised Comedy"
-facebook = "https://facebook.com"
-github = "https://github.com/jonathanjanssens"
-logo = "uploads/leamprovlogo.jpg"
+facebook = "https://www.facebook.com/LeamingtonSpaImprov"
+instagram = "https://www.instagram.com/leamprov/"
+meetup = "https://www.meetup.com/leamprov"
+logo = "leamprovlogo.png"
 mainSections = ["post"]
 twitter = "https://twitter.com"
 [privacy.instagram]
