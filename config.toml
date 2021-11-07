@@ -1,33 +1,18 @@
-baseURL = 'http://www.leamprov.com/'
-languageCode = 'en-us'
-title = 'Leamprov'
-theme = 'Casper'
-
-Title = 'Leamprov'
-
-
-[menu]
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 10
+Title = "Leamprov"
+baseURL = "http://www.leamprov.com/"
+languageCode = "en-us"
+theme = "Casper"
+title = "Leamprov"
+[deployment]
+order = [".jpg$", ".gif$"]
+[[deployment.targets]]
+URL = "s3://www.leamprov.com?region=eu-west-2"
+name = "AWS"
 [[menu.main]]
 identifier = "image-credit"
-name = "Image Credit"
+name = "Workshops"
 url = "/image-credit/"
-weight = 20
-[[menu.main]]
-identifier = "github-repo-theme"
-name = "Get Theme on Github"
-url = "https://github.com/jonathanjanssens/hugo-casper3"
-weight = 30
-[[menu.main]]
-identifier = "author"
-name = "Author Homepage"
-url = "https://jonathanjanssens.com"
-weight = 40
-
+weight = 2
 [params]
 description = "Just a demo site for the Casper3 theme ported to Hugo"
 facebook = "https://facebook.com"
@@ -56,21 +41,3 @@ disableInlineCSS = true
 category = "categories"
 series = "series"
 tag = "tags"
-
-
-
-[deployment]
-# By default, files are uploaded in an arbitrary order.
-# Files that match the regular expressions in the "Order" list
-# will be uploaded first, in the listed order.
-order = [".jpg$", ".gif$"]
-
-
-[[deployment.targets]]
-# An arbitrary name for this target.
-name = "AWS"
-
-# S3; see https://gocloud.dev/howto/blob/#s3
-# For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
-URL = "s3://www.leamprov.com?region=eu-west-2"
-
