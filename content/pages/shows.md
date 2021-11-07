@@ -9,7 +9,6 @@ weight = 3
 #### Next Show: November 29th 2021
 
 * Where: Temperance Leamington Spa
-* What: Come and watch some improvised comedy in a wonderful bar in the middle of Leamington! 
 * When: 29 / 11 / 2021
 * Time: 7:30pm (Doors open at 7pm)
 * Tickets: £5
