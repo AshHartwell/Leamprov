@@ -8,11 +8,6 @@ order = [".jpg$", ".gif$"]
 [[deployment.targets]]
 URL = "s3://www.leamprov.com?region=eu-west-2"
 name = "AWS"
-[[menu.main]]
-identifier = "image-credit"
-name = "Workshops"
-url = "/image-credit/"
-weight = 2
 [params]
 description = "Just a demo site for the Casper3 theme ported to Hugo"
 facebook = "https://facebook.com"
