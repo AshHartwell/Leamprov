@@ -1,5 +1,5 @@
 Title = "Leamprov"
-baseURL = "http://www.leamprov.com/"
+baseURL = "https://www.leamprov.com/"
 languageCode = "en-us"
 theme = "Casper"
 title = "Leamprov"
