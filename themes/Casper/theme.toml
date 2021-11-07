@@ -5,6 +5,7 @@ description = "The default Casper version 3 theme from Ghost CMS ported over to 
 tags = ["blog", "dark", "light"]
 features = ["darkmode"]
 min_version = "0.54.0"
+title = "Leamprov"
 
 [author]
   name = "Jonathan Janssens"

@@ -1,7 +1,11 @@
 baseURL = 'http://www.leamprov.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Leamprov'
 theme = 'Casper'
+
+Title = 'Leamprov'
+Params.logo = 'test.png'
+
 
 
 [deployment]
