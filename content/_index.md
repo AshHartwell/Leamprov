@@ -6,4 +6,4 @@ weight = 1
 
 +++
 
-This is a test of the markdown
+This is a test of the markdown!
