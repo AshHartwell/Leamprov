@@ -29,10 +29,10 @@ url = "https://jonathanjanssens.com"
 weight = 40
 
 [params]
-description = "Just a demo site for the Casper3 theme ported to Hugo"
+description = "Leamington Spa Improvised Comedy"
 facebook = "https://facebook.com"
 github = "https://github.com/jonathanjanssens"
-logo = "leamprov.jpg"
+logo = "uploads/leamprovlogo.jpg"
 mainSections = ["post"]
 twitter = "https://twitter.com"
 [privacy.instagram]
