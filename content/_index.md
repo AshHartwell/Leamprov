@@ -1,7 +1,7 @@
 +++
 title = "About"
+imageurl = "Insert Here"
 [menu.main]
-imageurl = "insert url here"
 weight = 1
 
 +++
