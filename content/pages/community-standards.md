@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Community Standards"
 [menu.main]
 identifier = "github-repo-theme"
