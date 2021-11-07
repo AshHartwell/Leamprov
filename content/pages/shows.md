@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Shows"
 [menu.main]
 identifier = "github-repo-theme"
