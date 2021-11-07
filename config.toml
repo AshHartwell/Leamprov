@@ -12,9 +12,9 @@ name = "AWS"
 description = "Leamington Spa Improvised Comedy"
 facebook = "https://www.facebook.com/LeamingtonSpaImprov"
 instagram = "https://www.instagram.com/leamprov/"
-meetup = "https://www.meetup.com/leamprov"
 logo = "leamprovlogo.png"
 mainSections = ["post"]
+meetup = "https://www.meetup.com/leamprov"
 twitter = "https://twitter.com"
 [privacy.instagram]
 disabled = false
