@@ -32,7 +32,7 @@ URL = "s3://www.leamprov.com?region=eu-west-2"
 
 
 
-
+[menu]
 [[menu.main]]
 identifier = "about"
 name = "About"
@@ -53,6 +53,8 @@ identifier = "author"
 name = "Author Homepage"
 url = "https://jonathanjanssens.com"
 weight = 40
+
+
 [params]
 description = "Just a demo site for the Casper3 theme ported to Hugo"
 facebook = "https://facebook.com"
