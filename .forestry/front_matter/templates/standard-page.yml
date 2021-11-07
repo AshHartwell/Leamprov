@@ -8,4 +8,4 @@ fields:
     required: false
   label: Title
 pages:
-- content/community-standards.md
+- content/yrdy.md
