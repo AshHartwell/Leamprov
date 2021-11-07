@@ -17,7 +17,7 @@ name = "AWS"
 
 # S3; see https://gocloud.dev/howto/blob/#s3
 # For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
-URL = "s3://leamprov?region=us-east-2"
+URL = "s3://www.leamprov.com?region=eu-west-2"
 
 
 # [[deployment.matchers]] configure behavior for files that match the Pattern.
