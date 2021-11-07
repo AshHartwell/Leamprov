@@ -8,4 +8,5 @@ fields:
     required: false
   label: Title
 pages:
+- content/pages/about.md
 - content/pages/community-standards.md
