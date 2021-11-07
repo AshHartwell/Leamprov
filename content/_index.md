@@ -1,9 +1,8 @@
 +++
-title = "About"
 imageurl = "Insert Here"
+title = "We Are Leamprov."
 [menu.main]
 weight = 1
 
 +++
-
-This is a test of the markdown!
+We can insert the text here.
