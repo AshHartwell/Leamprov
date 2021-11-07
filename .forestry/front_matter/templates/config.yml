@@ -152,5 +152,3 @@ fields:
     - type: boolean
       name: disableInlineCSS
       label: disableInlineCSS
-pages:
-- config.toml
