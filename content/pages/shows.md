@@ -8,6 +8,12 @@ weight = 3
 
 #### Next Show: November 29th 2021
 
+## The Elephants In The Room - An Improvised Comedy Show
+
+Leamington's improvisers will turn your suggestions into hillarious scenes. Nothing is written and nobody knows what is going to happen - including the cast!
+
+Taking inspiration from audience suggestions, the show will create a series of comedy sketches and games completely off-the-cuff.
+
 * Where: Temperance Leamington Spa
 * When: 29 / 11 / 2021
 * Time: 7:30pm (Doors open at 7pm)
