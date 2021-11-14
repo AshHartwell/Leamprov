@@ -7,6 +7,6 @@ Leamprov is an improvised comedy community group based in Leamington Spa, Warwic
 
 The group was founded and is managed by James Cannon, who has over 8 years of experience doing improvised comedy, performing across the county in a number of different improvised troupes.
 
-The group currently focuses on short form improvised comedy and aims to book a number of workshops, jams and performance across the year. Currently workshops take place on a Monday night at The Band Factory in Leamington spa with monthly jams happening at the end of each month and shows every 3 months.
+The group currently focuses on short form improvised comedy and aims to book a number of workshops, jams and performance across the year. Currently workshops take place on a Monday night at The Band Factory in Leamington spa with monthly jams happening at the end of each month and shows every 3 months. 
 
 The group aims to provide a supportive and welcoming environment to people of all ages, genders, ethnic backgrounds, physical abilities, cultural views, sexual orientations, religions, and nationalities, and are currently working to encourage greater diversity and accessibility in the improv scene.
