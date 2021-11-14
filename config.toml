@@ -8,6 +8,8 @@ order = [".jpg$", ".gif$"]
 [[deployment.targets]]
 URL = "s3://www.leamprov.com?region=eu-west-2"
 name = "AWS"
+[markup.goldmark.renderer]
+unsafe = true
 [params]
 description = "Leamington Spa Improvised Comedy"
 facebook = "https://www.facebook.com/LeamingtonSpaImprov"
@@ -37,6 +39,3 @@ disableInlineCSS = true
 category = "categories"
 series = "series"
 tag = "tags"
-
-[markup.goldmark.renderer]
-unsafe= true

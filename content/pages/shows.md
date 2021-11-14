@@ -5,7 +5,6 @@ identifier = "github-repo-theme"
 weight = 3
 
 +++
-
 #### Next Show: November 29th 2021
 
 ## The Elephants In The Room - An Improvised Comedy Show
