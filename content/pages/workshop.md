@@ -7,7 +7,7 @@ weight = 2
 +++
 We run a series of workshops open to all.
 
-Before attending, please see our [community standards](Leamprov "Community Standards")
+Before attending, please see our [community standards](CommunityStandards "community standards")
 
 We hold workshops every Monday at the band factory, map below:
 
