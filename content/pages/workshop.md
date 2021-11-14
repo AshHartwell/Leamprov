@@ -5,7 +5,7 @@ identifier = "image-credit"
 weight = 2
 
 +++
-We run a series of workshops open to all.
+We run a series of workshops open to all. (Test)
 
 Before attending, please see our [community standards](CommunityStandards "community standards")
 
