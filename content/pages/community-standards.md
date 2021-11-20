@@ -1,7 +1,5 @@
 +++
 title = "Community Standards"
-[menu.main]
-weight = 4
 
 +++
 # **Member’s guidelines**
