@@ -5,9 +5,9 @@ identifier = "github-repo-theme"
 weight = 3
 
 +++
-#### Next Show: November 29th 2021
+## Next Show: November 29th 2021
 
-## The Elephants In The Room - An Improvised Comedy Show
+#### The Elephants In The Room - An Improvised Comedy Show
 
 Leamington's improvisers will turn your suggestions into hillarious scenes. Nothing is written and nobody knows what is going to happen - including the cast!
 
@@ -38,7 +38,7 @@ console.log('Order complete!');
 </script>
 <!-- End buy ticket button -->
 
-   <br />
+<br />
 
 #### Future Shows
 
