@@ -9,7 +9,7 @@ weight = 3
 
 #### The Elephants In The Room - An Improvised Comedy Show
 
-Leamington's improvisers will turn your suggestions into hillarious scenes. Nothing is written and nobody knows what is going to happen - including the cast!
+Leamington's improvisers will turn your suggestions into hillarious scenes. Nothing is written and nobody knows what is going to happen - including the cast!<img src="/uploads/06-09-21-26.jpg" width=500px>
 
 Taking inspiration from audience suggestions, the show will create a series of comedy sketches and games completely off-the-cuff.
 
