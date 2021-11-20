@@ -19,6 +19,8 @@ You can find the band factory at the map below:
 
 <!-- This is the end of the HTML code -->
 
+ 
+
 #### What's it like?
 
 The workshops are fun, no-pressure and open to all skill levels! Each month covers a particular topic or theme, however every session is beginner-friendly so don't worry about joining part way through the month. We have included some photos of the workshops below.
@@ -36,3 +38,11 @@ Once a month we also host a 'jam', where rather than learning new skills everyon
 As well as workshops and jams we are also a community and have built great friendships - after workshops everyone is welcome (but not obliged!) to stay for a drink, and we also host  socials (like the murder mystery below, nights out, Christmas meals and even trips together).
 
 <img src="/uploads/05-11-21.jpg" width=300px>
+
+#### How can I join?
+
+Just turn up to one of our workshops! If you come to The Band Factory simply enter through the side door on the left of the building (in the car park) and you can join the workshop.
+
+We encourage our members to take lateral flow tests regularly, and you must not join the session if you are currently experiencing any symptoms of Coronavirus (a high temperature, new continuous cough or a loss in your sense of smell or taste). 
+
+Registering on meetup isn't mandatory, but does help us contact you if anything changes (for instance if we need to cancel or swap venues). You can register for the next workshop [here](https://www.meetup.com/leamprov/)!
