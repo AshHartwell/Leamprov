@@ -5,7 +5,7 @@ identifier = "github-repo-theme"
 weight = 3
 
 +++
-## Next Show: Tuesday 1st February
+## Next Show: Tuesday 1st February 2022
 
 #### The Elephants In The Room - An Improvised Comedy Show
 
