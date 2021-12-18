@@ -46,8 +46,8 @@ Taking inspiration from audience suggestions, the show will create a series of c
 
 We have the following upcoming shows:
 
-* 29th March - The Elephants In The Room In Temperance
-* 14th May - Brighton Fringe Festival (16:15-17:15 at The Caxton Arms)
-* 15th May - Brighton Fringe Festival (16:15-17:15 at The Caxton Arms)
+* 29th March 2022 - The Elephants In The Room In Temperance
+* 14th May 2022 - Brighton Fringe Festival (16:15-17:15 at The Caxton Arms)
+* 15th May 2022 - Brighton Fringe Festival (16:15-17:15 at The Caxton Arms)
 
 Tickets to these shows will be available on this website closer to the time, or on Eventbrite. Come along and join the improv party 🎉
