@@ -18,14 +18,17 @@ Taking inspiration from audience suggestions, the show will create a series of c
 * Time: 7:30pm (Doors open at 7pm)
 * Tickets: £5
 
-<!-- Buy ticket button below which is a 'live' button --> <noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-elephant-in-the-room-an-improvised-comedy-show-tickets-224273617427" rel="noopener noreferrer" target="_blank"></noscript> <!-- You can customise this button any way you like --> <button id="eventbrite-widget-modal-trigger-190578103237" type="button">Click Here To Buy Tickets Now!</button> <noscript></a>Buy Tickets on Eventbrite</noscript>
+<!-- Buy ticket button below which is a 'live' button --> <!-- Noscript content for added SEO -->
+<noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-elephant-in-the-room-an-improvised-comedy-show-tickets-224273617427" rel="noopener noreferrer" target="_blank">Click here to buy tickets</a></noscript>
+<!-- You can customise this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-224273617427" type="button">Buy Tickets</button>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 
 <script type="text/javascript">
-var exampleCallback = function() {
-console.log('Order complete!');
-};
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
 
     window.EBWidgets.createWidget({
         widgetType: 'checkout',
@@ -34,7 +37,6 @@ console.log('Order complete!');
         modalTriggerElementId: 'eventbrite-widget-modal-trigger-224273617427',
         onOrderComplete: exampleCallback
     });
-
 </script>
 <!-- End buy ticket button -->
 
