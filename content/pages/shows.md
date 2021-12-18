@@ -29,9 +29,9 @@ console.log('Order complete!');
 
     window.EBWidgets.createWidget({
         widgetType: 'checkout',
-        eventId: '190578103237',
+        eventId: '224273617427',
         modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-190578103237',
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-224273617427',
         onOrderComplete: exampleCallback
     });
 
