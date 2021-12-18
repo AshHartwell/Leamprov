@@ -14,7 +14,7 @@ Leamington's improvisers will turn your suggestions into hillarious scenes. Noth
 Taking inspiration from audience suggestions, the show will create a series of comedy sketches and games completely off-the-cuff.
 
 * Where: Temperance Leamington Spa
-* When: 01 / February / 2021
+* When: 1st February 2022
 * Time: 7:30pm (Doors open at 7pm)
 * Tickets: £5
 
