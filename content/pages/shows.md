@@ -46,7 +46,7 @@ Taking inspiration from audience suggestions, the show will create a series of c
 
 We have the following upcoming shows:
 
-* 29th March 2022 - The Elephants In The Room In Temperance
+* 29th March 2022 - Leamington Spa (Doors open at 7pm for 7:30 show)
 * 14th May 2022 - Brighton Fringe Festival (16:15-17:15 at The Caxton Arms)
 * 15th May 2022 - Brighton Fringe Festival (16:15-17:15 at The Caxton Arms)
 
