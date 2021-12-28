@@ -5,7 +5,7 @@ identifier = "about"
 weight = 1
 
 +++
-Improv is the art of creating comedy or theatre from scratch, on the spot, from audience suggestions.
+Improv is the art of creating comedy or theatre from scratch, on the spot, from audience suggestions!
 
 Leamprov was founded in 2018 to establish a community of improv within Warwickshire. We have members from all over the midlands who are joined together by a love of improv!
 
