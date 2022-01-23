@@ -42,8 +42,8 @@ Taking inspiration from audience suggestions, the show will create a series of c
 
 <br />
 
-#### Leamprov On Tour 🚌: Tuesday 1st February 2022
-
+## Leamprov On Tour 🚌 Tuesday 1st February 2022
+#### Improv Nonsense - Valentine Edition
 
 MissImp proudly presents a showcase of spur of the moment comedy and theatre. Each performance of Improv Nonsense showcases different local and national stars ofImprovised Theatre. You might see a series of duologues, a panoply of theatre games or just about anything else under the sun. One thing is certain. It's all unscripted and guaranteed to be a one night only production.
 
