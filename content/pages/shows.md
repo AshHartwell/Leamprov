@@ -21,8 +21,9 @@ Taking inspiration from audience suggestions, the show will create a series of c
 <!-- Buy ticket button below which is a 'live' button --> <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-elephant-in-the-room-an-improvised-comedy-show-tickets-224273617427" rel="noopener noreferrer" target="_blank">Click here to buy tickets</a></noscript>
 <!-- You can customise this button any way you like -->
+<center>
 <button id="eventbrite-widget-modal-trigger-224273617427" type="button">Click here to buy tickets</button>
-
+</center>
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 
 <script type="text/javascript">
