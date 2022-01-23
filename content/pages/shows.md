@@ -41,6 +41,7 @@ Taking inspiration from audience suggestions, the show will create a series of c
 <!-- End buy ticket button -->
 
 <br />
+<br />
 
 ## Leamprov On Tour 🚌 Tuesday 1st February 2022
 #### Improv Nonsense - Valentine Edition
@@ -50,6 +51,8 @@ MissImp proudly presents a showcase of spur of the moment comedy and theatre. Ea
 This week it will be a special show all about luuuuurve 😘 A perfect date night treat ahead of Valentines’ day for people who love to laugh. You can expect a heart shaped box of the finest improv candy 💖
  
 Tickets available here <button><a href="https://nonsuchstudios.online.red61.co.uk/event/419:277/">here.</a></button>
+
+<br/>
 
 #### Future Shows
 
