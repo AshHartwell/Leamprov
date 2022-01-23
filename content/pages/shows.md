@@ -43,12 +43,17 @@ Taking inspiration from audience suggestions, the show will create a series of c
 <br />
 <br />
 
-## Leamprov On Tour 🚌 Tuesday 1st February 2022
-#### Improv Nonsense - Valentine Edition
+## Leamprov On Tour 🚌 Saturday 12th February 2022
+#### Nottingham Show: Improv Nonsense - Valentine Edition
 
-MissImp proudly presents a showcase of spur of the moment comedy and theatre. Each performance of Improv Nonsense showcases different local and national stars ofImprovised Theatre. You might see a series of duologues, a panoply of theatre games or just about anything else under the sun. One thing is certain. It's all unscripted and guaranteed to be a one night only production.
+Leamprov have been invited to perform as part of Improv Nonsense in Nottingham - a showcase of spur of the moment comedy and theatre. Each performance of Improv Nonsense showcases different local and national stars ofImprovised Theatre. You might see a series of duologues, a panoply of theatre games or just about anything else under the sun. One thing is certain. It's all unscripted and guaranteed to be a one night only production.
 
 This week it will be a special show all about luuuuurve 😘 A perfect date night treat ahead of Valentines’ day for people who love to laugh. You can expect a heart shaped box of the finest improv candy 💖
+
+* Where: Nonsuch Studios, Nottingham (NG1 1EH)
+* When: 12th February 2022
+* Time: 7:30pm 
+* Tickets: £9
  
 <form action="https://nonsuchstudios.online.red61.co.uk/event/419:277/">
     <button type="submit">Click here to buy tickets</button>
