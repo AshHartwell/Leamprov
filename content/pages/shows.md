@@ -51,7 +51,7 @@ MissImp proudly presents a showcase of spur of the moment comedy and theatre. Ea
 This week it will be a special show all about luuuuurve 😘 A perfect date night treat ahead of Valentines’ day for people who love to laugh. You can expect a heart shaped box of the finest improv candy 💖
  
 <form action="https://nonsuchstudios.online.red61.co.uk/event/419:277/">
-    <button type="submit" value="Click here to buy tickets" /></button>
+    <button type="submit">Click here to buy tickets</button>
 </form>
 
 
