@@ -41,8 +41,7 @@ Taking inspiration from audience suggestions, the show will create a series of c
 </script>
 <!-- End buy ticket button -->
 
-<br />
-<br />
+***
 
 ## Leamprov On Tour 🚌 Saturday 12th February 2022
 #### Nottingham Show: Improv Nonsense - Valentine Edition
@@ -60,9 +59,7 @@ This week it will be a special show all about luuuuurve 😘 A perfect date nigh
     <button type="submit">Click here to buy tickets</button>
 </form>
 
-
-<br/>
-<br/>
+***
 
 #### Future Shows
 
