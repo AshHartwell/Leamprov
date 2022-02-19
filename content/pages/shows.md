@@ -5,7 +5,7 @@ identifier = "github-repo-theme"
 weight = 3
 
 +++
-## Next Show: Tuesday 1st February 2022
+## Next Show: Tuesday 29th March 2022
 
 #### The Elephants In The Room - An Improvised Comedy Show
 
@@ -14,7 +14,7 @@ Leamington's improvisers will turn your suggestions into hillarious scenes. Noth
 Taking inspiration from audience suggestions, the show will create a series of comedy sketches and games completely off-the-cuff.
 
 * Where: Temperance Leamington Spa
-* When: 1st February 2022
+* When: Tuesday 29th March 2022
 * Time: 7:30pm (Doors open at 7pm)
 * Tickets: £5
 
@@ -22,7 +22,7 @@ Taking inspiration from audience suggestions, the show will create a series of c
 <noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-elephant-in-the-room-an-improvised-comedy-show-tickets-224273617427" rel="noopener noreferrer" target="_blank">Click here to buy tickets</a></noscript>
 <!-- You can customise this button any way you like -->
 <center>
-<button id="eventbrite-widget-modal-trigger-224273617427" type="button">Click here to buy tickets</button>
+<button id="eventbrite-widget-modal-trigger-224273617427" type="button">Tickets Available Soon...</button>
 </center>
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 
@@ -40,24 +40,6 @@ Taking inspiration from audience suggestions, the show will create a series of c
     });
 </script>
 <!-- End buy ticket button -->
-
-***
-
-## Leamprov On Tour 🚌 Saturday 12th February 2022 with MissImp
-#### Nottingham Show: Improv Nonsense - Valentine Edition 
-
-Leamprov have been invited to perform as part of Improv Nonsense in Nottingham - a showcase of spur of the moment comedy and theatre. Each performance of Improv Nonsense showcases different local and national stars of Improvised Theatre. You might see a series of duologues, a panoply of theatre games or just about anything else under the sun. One thing is certain. It's all unscripted and guaranteed to be a one night only production.
-
-This week it will be a special show all about luuuuurve 😘 A perfect date night treat ahead of Valentines’ day for people who love to laugh. You can expect a heart shaped box of the finest improv candy 💖
-
-* Where: Nonsuch Studios, Nottingham (NG1 1EH)
-* When: 12th February 2022
-* Time: 7:30pm 
-* Tickets: £9
- 
-<form action="https://nonsuchstudios.online.red61.co.uk/event/419:277/">
-    <button type="submit">Click here to buy tickets</button>
-</form>
 
 ***
 
