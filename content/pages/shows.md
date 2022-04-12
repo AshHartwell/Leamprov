@@ -7,7 +7,7 @@ weight = 3
 +++
 ## Next Show: Monday 25th March 2022
 
-#### The Long Shot - A One Night Only Improvised Theatre
+#### The Long Shot - A One Night Only Improvised Show
 
 <img src="https://www.leamprov.com/ono.jpeg">
 
