@@ -5,13 +5,10 @@ identifier = "github-repo-theme"
 weight = 3
 
 +++
-## Next Show: Tuesday 29th March 2022
+## Next Show: Monday 25th March 2022
 
-#### The Elephants In The Room - An Improvised Comedy Show
+#### The Long Shot - A One Night Only Improvised Theatre Event
 
-Leamington's improvisers will turn your suggestions into hillarious scenes. Nothing is written and nobody knows what is going to happen - including the cast!<img src="/uploads/06-09-21-26.jpg" width=500px>
-
-Taking inspiration from audience suggestions, the show will create a series of comedy sketches and games completely off-the-cuff.
 
 * Where: Temperance Leamington Spa
 * When: Tuesday 29th March 2022
@@ -22,8 +19,12 @@ Taking inspiration from audience suggestions, the show will create a series of c
 <noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-elephant-in-the-room-an-improvised-comedy-show-tickets-224273617427" rel="noopener noreferrer" target="_blank">Click here to buy tickets</a></noscript>
 <!-- You can customise this button any way you like -->
 <center>
-<button id="eventbrite-widget-modal-trigger-224273617427" type="button">Tickets Available Soon...</button>
-</center>
+
+<!-- Noscript content for added SEO -->
+<noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-long-shot-tickets-317155148587" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
+<!-- You can customise this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-317155148587" type="button">Buy Tickets</button>
+
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 
 <script type="text/javascript">
@@ -33,15 +34,15 @@ Taking inspiration from audience suggestions, the show will create a series of c
 
     window.EBWidgets.createWidget({
         widgetType: 'checkout',
-        eventId: '224273617427',
+        eventId: '317155148587',
         modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-224273617427',
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-317155148587',
         onOrderComplete: exampleCallback
     });
 </script>
-<!-- End buy ticket button -->
-
 ***
+    
+</center>
 
 #### Future Shows
 
