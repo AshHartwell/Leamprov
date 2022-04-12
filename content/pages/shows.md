@@ -7,8 +7,9 @@ weight = 3
 +++
 ## Next Show: Monday 25th March 2022
 
-#### The Long Shot - A One Night Only Improvised Theatre Event
+#### The Long Shot - A One Night Only Improvised Theatre
 
+<img src="https://www.leamprov.com/ono.jpg">
 
 * Where: Temperance Leamington Spa
 * When: Tuesday 29th March 2022
