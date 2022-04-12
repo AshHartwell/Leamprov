@@ -9,7 +9,7 @@ weight = 3
 
 #### The Long Shot - A One Night Only Improvised Theatre
 
-<img src="https://www.leamprov.com/ono.jpg">
+<img src="https://www.leamprov.com/ono.jpeg">
 
 * Where: Temperance Leamington Spa
 * When: Tuesday 29th March 2022
