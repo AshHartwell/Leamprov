@@ -17,9 +17,7 @@ weight = 3
 * Tickets: £5
 <!-- Buy ticket button below which is a 'live' button --> <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-elephant-in-the-room-an-improvised-comedy-show-tickets-224273617427" rel="noopener noreferrer" target="_blank">Click here to buy tickets</a></noscript>
-<!-- You can customise this button any way you like -->
-👆
-<center>
+<!-- You can customise this button any way you like --><center>
 
 <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-long-shot-tickets-317155148587" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
