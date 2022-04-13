@@ -5,7 +5,7 @@ identifier = "github-repo-theme"
 weight = 3
 
 +++
-## Next Show: Monday 25th March 2022
+## Next Show: Monday 25th April 2022
 
 #### The Long Shot - A One Night Only Improvised Show
 
