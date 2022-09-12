@@ -5,7 +5,7 @@ identifier = "github-repo-theme"
 weight = 3
 
 +++
-## Next Show: Monday 25th April 2022
+## Next Show: TUESDAY 25th April 2022
 
 #### The Long Shot - A One Night Only Improvised Show
 
@@ -16,14 +16,10 @@ weight = 3
 
 
 
-<!-- Buy ticket button below which is a 'live' button --> <!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-elephant-in-the-room-an-improvised-comedy-show-tickets-224273617427" rel="noopener noreferrer" target="_blank">Click here to buy tickets</a></noscript>
-<!-- You can customise this button any way you like --><center>
-
 <!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-long-shot-tickets-317155148587" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
-<!-- You can customise this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-317155148587" type="button">Buy Tickets</button>
+<noscript><a href="https://www.eventbrite.co.uk/e/flopbusters-an-improvised-movie-tickets-418178281497" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
+<!-- You can customize this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-418178281497" type="button">Buy Tickets</button>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 
@@ -34,15 +30,12 @@ weight = 3
 
     window.EBWidgets.createWidget({
         widgetType: 'checkout',
-        eventId: '317155148587',
+        eventId: '418178281497',
         modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-317155148587',
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-418178281497',
         onOrderComplete: exampleCallback
     });
 </script>
-***
-    
-</center>
 
 #### Future Shows
 
