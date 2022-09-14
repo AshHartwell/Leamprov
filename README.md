@@ -10,4 +10,4 @@ Notes for editors:
 
 * Writing is done in markdown - find a guide here: https://www.markdownguide.org/basic-syntax/
 
-* If you want to upload images, place them in the "public/uploads" folder. After upload, they will be available at http://www.leamprov.com/uploads/<your filename>. Images can be added either with markdown or with html - the HTML code would be <img src="PUT IMAGE URL HERE" width=400, height=500>
+* If you want to upload images, place them in the "public/uploads" folder. After upload, they will be available at http://www.leamprov.com/uploads/<your filename>. Images can be added either with markdown or with html - the HTML code would be `<img src="PUT IMAGE URL HERE" width=400, height=500>`
