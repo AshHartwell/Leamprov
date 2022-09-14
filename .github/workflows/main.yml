@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@master
           
       - name: Deploy site
-        uses: brunogeronimo/hugo-s3-action@v0.0.1
+        uses: brunogeronimo/hugo-s3-action@0.0.1
         env:
           AWS_REGION: 'eu-west-2'
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
