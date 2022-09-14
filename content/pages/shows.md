@@ -5,12 +5,12 @@ identifier = "github-repo-theme"
 weight = 3
 
 +++
-## Next Show: TUESDAY 25th April 2022
+## Next Show: TUESDAY 11th October 2022
 
-#### The Long Shot - A One Night Only Improvised Show
+#### Flopbusters - An Improvised Comedy Show
 
 * Where: Temperance Leamington Spa
-* When: Tuesday 29th March 2022
+* When: Tuesday 11th October 2022
 * Time: 7:30pm (Doors open at 7pm)
 * Tickets: £5
 
