@@ -9,7 +9,7 @@ weight = 3
 
 #### Flopbusters - An Improvised Comedy Show
 
-* Where: Temperance Leamington Spa
+* Where: Temperance Cafe, Leamington Spa
 * When: Tuesday 11th October 2022
 * Time: 7:30pm (Doors open at 7pm)
 * Tickets: £5
@@ -41,8 +41,7 @@ weight = 3
 
 We have the following upcoming shows:
 
-* 29th March 2022 - Leamington Spa (Doors open at 7pm for 7:30 show)
-* 14th May 2022 - Brighton Fringe Festival (16:15-17:15 at The Caxton Arms)
-* 15th May 2022 - Brighton Fringe Festival (16:15-17:15 at The Caxton Arms)
+* 1st November 2022 - Temperance Cafe, Leamington Spa (Doors open at 7pm for 7:30 show)
+
 
 Tickets to these shows will be available on this website closer to the time, or on Eventbrite. Come along and join the improv party 🎉
