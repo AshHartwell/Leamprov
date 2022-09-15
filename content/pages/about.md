@@ -11,7 +11,7 @@ Leamprov was founded in 2018 to establish a community of improv within Warwicksh
 
 There are a few ways you can get involved:
 
-* **Love seeing comedy?** We do shows! Our show is called "The Elephants In The Room", and is a fun high-energy show where audience suggestions get turned into hillarious scenes. We do frequent shows in Leamington, and also perform in the wider area (we have performed as part of Coventry City of Culture and are performing at Brighton Fringe). See our upcoming shows [here.](Leamprov "Shows")
+* **Love seeing comedy?** We do shows! Our show is called "The Elephants In The Room", and is a fun high-energy show where audience suggestions get turned into hillarious scenes. We do frequent shows in Leamington, and also perform in the wider area (we have performed as part of Coventry City of Culture and at Brighton Fringe). See our upcoming shows [here.](Leamprov "Shows")
 
 * **Want to learn improv?** We hold weekly workshops for all abilities. Most of our members that join have never done improv before, and we have a friendly community and no-pressure environment which will get you up and doing your first scenes in no time! [Click here](Leamprov "workshop") to find out more information about our workshops.
 
