@@ -41,7 +41,7 @@ weight = 3
 
 We have the following upcoming shows:
 
-* 1st November 2022 - Temperance Cafe, Leamington Spa (Doors open at 7pm for 7:30 show)
+* Tuesday 1st November 2022 - [The Elephant In The Room](https://www.eventbrite.co.uk/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-413347041127) - Temperance Cafe, Leamington Spa (Doors open at 7pm for 7:30 show)
+* Saturday 12th November 2022 - Nottingham Comedy Festival [Nottingham Comedy Festival](https://www.nottinghamcomedyfestival.co.uk/missimp-leamprov) -The Malt Cross, Nottingham (Doors open at 7pm for 7:30 show)
 
-
-Tickets to these shows will be available on this website closer to the time, or on Eventbrite. Come along and join the improv party 🎉
+Come along and join the improv party 🎉
