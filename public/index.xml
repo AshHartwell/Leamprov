@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>We Are Leamprov. on Leamprov</title>
+    <link>https://www.leamprov.com/</link>
+    <description>Recent content in We Are Leamprov. on Leamprov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.leamprov.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://www.leamprov.com/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.leamprov.com/pages/about/</guid>
+      <description>About Us</description>
+    </item>
+    
+    <item>
+      <title>Community Standards</title>
+      <link>https://www.leamprov.com/pages/community-standards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.leamprov.com/pages/community-standards/</guid>
+      <description>These are our community standards</description>
+    </item>
+    
+    <item>
+      <title>Shows</title>
+      <link>https://www.leamprov.com/pages/shows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.leamprov.com/pages/shows/</guid>
+      <description>Next Show: November 29th 2021  Where: Temperance Leamington Spa When: 29 / 11 / 2021 Time: 7:30pm (Doors open at 7pm) Tickets: £5   Click Here To Buy Tickets Now! Buy Tickets on Eventbrite  var exampleCallback = function() { console.log(&#39;Order complete!&#39;); }; window.EBWidgets.createWidget({ widgetType: &#39;checkout&#39;, eventId: &#39;190578103237&#39;, modal: true, modalTriggerElementId: &#39;eventbrite-widget-modal-trigger-190578103237&#39;, onOrderComplete: exampleCallback });  Future Shows Future shows will be listed here, along with festival performances!</description>
+    </item>
+    
+    <item>
+      <title>Test Page</title>
+      <link>https://www.leamprov.com/pages/test-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.leamprov.com/pages/test-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>https://www.leamprov.com/pages/workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.leamprov.com/pages/workshop/</guid>
+      <description>We run a series of workshops e.t.c.
+Before attending, please see our community standards
+We hold workshops every Monday at the band factory, map below:
+ </description>
+    </item>
+    
+  </channel>
+</rss>

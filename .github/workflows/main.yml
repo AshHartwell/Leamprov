@@ -1,0 +1,25 @@
+# Deploy site to S3
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    
+    runs-on: ubuntu-latest
+    environment: AWS
+
+    steps:
+      - name: Check out master
+        uses: actions/checkout@master
+          
+      - name: Deploy site
+        uses: brunogeronimo/hugo-s3-action@0.0.1
+        env:
+          AWS_REGION: 'eu-west-2'
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          MINIFY: 'true'

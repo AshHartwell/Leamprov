@@ -1,4 +1,41 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "ananke"
+Title = "Leamprov"
+baseURL = "https://www.leamprov.com/"
+languageCode = "en-us"
+theme = "Casper"
+title = "Leamprov"
+[deployment]
+order = [".jpg$", ".gif$"]
+[[deployment.targets]]
+URL = "s3://www.leamprov.com?region=eu-west-2"
+name = "AWS"
+[markup.goldmark.renderer]
+unsafe = true
+[params]
+description = "Leamington Spa Improvised Comedy"
+facebook = "https://www.facebook.com/LeamingtonSpaImprov"
+instagram = "https://www.instagram.com/leamprov/"
+logo = "leamprovlogo.png"
+mainSections = ["post"]
+meetup = "https://www.meetup.com/leamprov"
+twitter = "https://twitter.com"
+[privacy.instagram]
+disabled = false
+simple = true
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+[privacy.vimeo]
+disabled = false
+simple = true
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+[services.instagram]
+disableInlineCSS = true
+[services.twitter]
+disableInlineCSS = true
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"

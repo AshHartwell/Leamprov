@@ -1,0 +1,33 @@
+On "GenerateWindows" module in VBA...
+
+Under this code:
+
+            'Should I create a slot if there is none?
+            'Slot should be created IF....
+            'Timeslot - 2 and Timeslot + 2 have <1 and Timeslot -1 and Timeslot + 1 have 0 or blank
+
+Delete this code:
+
+            If Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 2, i - 2).Value > 0 And Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 2, i + 2).Value > 0 And Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 2, i - 1).Value = 0 And Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 2, i - 1).Value = 0 Then
+            
+                If IsNumeric(Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 2, i - 2).Value) Then
+                    Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine, i).Value = Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 1, i).Value
+                End If
+                
+            End If
+            
+
+
+Replace with this code:
+
+
+            If Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 2, i - 2).Value > 0 And Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 2, i + 2).Value > 0 And Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 2, i - 1).Value = 0 And Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 2, i - 1).Value = 0 Then
+            
+                If IsNumeric(Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 2, i - 2).Value) Then
+                    Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine, i).Value = Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 1, i).Value
+                End If
+                
+            ElseIf Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 1, i).Value > 0 And Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 2, i - 1).Value = 0 And Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 2, i + 1).Value = 0 And Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 2, i).Value = 0 And Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine, i - 1).Value = 0 Then
+               Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine, i).Value = Worksheets("New Timeslots").Cells(NewTimeslots_OutputLine - 1, i).Value
+            End If
+            
