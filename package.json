@@ -1,26 +1,27 @@
 {
-  "name": "leamprov",
+  "name": "tina-hugo-starter",
   "version": "1.0.0",
-  "description": "A website for Leamington Spa Improvised Comedy - Built with Hugo",
+  "description": "A starter for TinaCMS with Hugo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tinacms dev -c \"hugo server -D\"",
-    "build": "tinacms build && hugo"
+    "build": "tinacms build && hugo",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AshHartwell/Leamprov.git"
+    "url": "git+https://github.com/tinalabs/vanilla-hugo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AshHartwell/Leamprov/issues"
+    "url": "https://github.com/tinalabs/vanilla-hugo/issues"
   },
-  "homepage": "https://github.com/AshHartwell/Leamprov#readme",
+  "homepage": "https://github.com/tinalabs/vanilla-hugo#readme",
   "dependencies": {
-    "@tinacms/cli": "^1.0.8",
-    "tinacms": "^1.1.5"
+    "@tinacms/cli": "^1.0.0",
+    "styled-components": "^5.3.6",
+    "tinacms": "^1.0.0"
   }
 }
