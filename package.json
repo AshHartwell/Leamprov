@@ -1,0 +1,24 @@
+{
+  "name": "leamprov",
+  "version": "1.0.0",
+  "description": "A website for Leamington Spa Improvised Comedy - Built with Hugo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshHartwell/Leamprov.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshHartwell/Leamprov/issues"
+  },
+  "homepage": "https://github.com/AshHartwell/Leamprov#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.0.8",
+    "tinacms": "^1.1.5"
+  }
+}
