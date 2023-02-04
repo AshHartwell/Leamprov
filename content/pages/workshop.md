@@ -1,7 +1,3 @@
----
-_template: standard_page
----
-
 +++
 title = "Workshops"
 [menu.main]
