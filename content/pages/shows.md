@@ -7,18 +7,18 @@ menu:
 weight: 1
 date: 2023-02-05T12:34:35.977Z
 ---
-## Next Show: Friday 17th February 2022
+## Next Show: Friday 17th February 2023
 
 #### Flopbusters - An Improvised Comedy Show
 
 * Where: Leicester (venue tbd)
-* When: Friday 17th February 2022
+* When: Friday 17th February 2023
 * Time: 9pm
 * Tickets: £?
 
 T﻿ickets available (insert link).
 
-## Leicester Fringe: Shortform Saturday 18th February 2022
+## Leicester Fringe: Shortform Saturday 18th February 2023
 
 #### The Elephants In The Room
 
