@@ -1,10 +1,12 @@
-+++
-title = "Workshops"
-[menu.main]
-identifier = "image-credit"
-weight = 2
-
-+++
+---
+title: Workshops
+menu:
+  main:
+    identifier: image-credit
+    weight: 2
+weight: 1
+date: 2023-02-05T12:36:12.458Z
+---
 We run a series of workshops which are suitable for everyone. Most people who start attending our workshops have never tried improv before, so don't worry - you will quickly pick it up!
 
 Before attending, please see our [community standards](../community-standards/).
