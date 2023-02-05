@@ -1,13 +1,10 @@
 Title = "Leamprov"
-baseURL = "http://leamprov.com/"
+baseURL = "https://leamprov.com/"
 languageCode = "en-us"
 theme = "Casper"
 title = "Leamprov"
 [deployment]
 order = [".jpg$", ".gif$"]
-[[deployment.targets]]
-URL = "s3://www.leamprov.com?region=eu-west-2"
-name = "AWS"
 [markup.goldmark.renderer]
 unsafe = true
 [params]
