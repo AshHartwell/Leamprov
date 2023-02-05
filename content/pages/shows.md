@@ -11,9 +11,20 @@ date: 2023-02-05T12:34:35.977Z
 
 #### Flopbusters - An Improvised Comedy Show
 
-* Where: Leicester 
+* Where: Leicester (venue tbd)
 * When: Friday 17th October 2022
-* Time: 7:30pm (Doors open at 7pm)
+* Time: 9pm
+* Tickets: £?
+
+T﻿ickets available (insert link).
+
+## Leicester Fringe: Shortform Saturday 18th February 2022
+
+#### The Elephants In The Room
+
+* Where: Leicester (venue tbd)
+* When: Saturday 18th
+* Time: 5pm (Doors open at 7pm)
 * Tickets: £5
 
 T﻿ickets available (insert link).
