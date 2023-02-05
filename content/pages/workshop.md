@@ -17,9 +17,7 @@ You can find the band factory at the map below:
 
 <iframe width="100%" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=The%20band%20factory,%20Leamington%20Spa,%20united%20kingdom&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"> </iframe>
 
-<!-- This is the end of the HTML code -->
-
- 
+<!-- This is the end of the HTML code --> 
 
 #### What's it like?
 
@@ -29,7 +27,7 @@ The workshops are fun, no-pressure and open to all skill levels! Each month cove
 
 <img src="/uploads/04-10-21-7.jpg" width=300px>
 
-Once a month we also host a 'jam', where rather than learning new skills everyone gets a chance to perform if they want to. The photo below is from our Halloween Jam. 
+Once a month we also host a 'jam', where rather than learning new skills everyone gets a chance to perform if they want to. The photo below is from our Halloween Jam.
 
 <img src="/uploads/25-10-21-21.jpg" width=300px>
 
@@ -43,6 +41,6 @@ As well as workshops and jams we are also a community and have built great frien
 
 Just turn up to one of our workshops! If you come to The Band Factory simply enter through the side door on the left of the building (in the car park) and you can join the workshop.
 
-We encourage our members to take lateral flow tests regularly, and you must not join the session if you are currently experiencing any symptoms of Coronavirus (a high temperature, new continuous cough or a loss in your sense of smell or taste). 
+We encourage our members to take lateral flow tests regularly, and you must not join the session if you are currently experiencing any symptoms of Coronavirus (a high temperature, new continuous cough or a loss in your sense of smell or taste).
 
 Registering on meetup isn't mandatory, but does help us contact you if anything changes (for instance if we need to cancel or swap venues). You can register for the next workshop [here](https://www.meetup.com/leamprov/)!
