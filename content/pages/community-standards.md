@@ -1,7 +1,8 @@
-+++
-title = "Community Standards"
-
-+++
+---
+title: Community Standards
+weight: 1
+date: 2023-02-05T12:36:03.024Z
+---
 # **Member’s guidelines**
 
  1. Members must be 18+ to join the group
