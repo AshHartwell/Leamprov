@@ -6,9 +6,9 @@ media_folder: "static/uploads" # Media files will be stored in the repo under st
 public_folder: "/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-  - name: "pages" # Used in routes, e.g., /admin/collections/blog
-    label: "Pages" # Used in the UI
-    folder: "content/pages" # The path to the folder where the documents are stored
+  - name: "frontpage" # Used in routes, e.g., /admin/collections/blog
+    label: "Frontpage" # Used in the UI
+    folder: "content" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -19,9 +19,9 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "frontpage" # Used in routes, e.g., /admin/collections/blog
-    label: "Frontpage" # Used in the UI
-    folder: "content" # The path to the folder where the documents are stored
+  - name: "pages" # Used in routes, e.g., /admin/collections/blog
+    label: "Pages" # Used in the UI
+    folder: "content/pages" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
