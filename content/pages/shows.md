@@ -11,12 +11,12 @@ date: 2023-02-05T12:34:35.977Z
 
 #### Flopbusters - An Improvised Comedy Show
 
-* Where: Temperance Cafe, Leamington Spa
-* When: Tuesday 11th October 2022
+* Where: Leicester 
+* When: Friday 17th October 2022
 * Time: 7:30pm (Doors open at 7pm)
 * Tickets: £5
 
-T﻿ickets available [here](https://www.eventbrite.co.uk/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-413347041127).
+T﻿ickets available (insert link).
 
 ## Following Show: Tuesday 21st February 2022
 
