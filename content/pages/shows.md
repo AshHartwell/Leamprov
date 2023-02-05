@@ -25,7 +25,7 @@ T﻿ickets available (insert link).
 * Where: Leicester (venue tbd)
 * When: Saturday 18th
 * Time: 5pm (Doors open at 7pm)
-* Tickets: £5
+* Tickets: £?
 
 T﻿ickets available (insert link).
 
