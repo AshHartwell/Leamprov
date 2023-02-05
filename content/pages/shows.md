@@ -18,13 +18,11 @@ date: 2023-02-05T12:34:35.977Z
 
 T﻿ickets available [here](https://www.eventbrite.co.uk/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-413347041127).
 
-## Next Show: Friday 17th February 2022
+## Following Show: Tuesday 21st February 2022
 
 #### The Long Shot - An Improvised Comedy Show
 
 <!--StartFragment-->
-
-[Buy Tickets on Eventbrite](https://www.eventbrite.co.uk/e/leamprov-the-long-shot-a-fully-improvised-show-improvised-comedy-tickets-506679982467)
 
 <!-- You can customize this button any way you like -->
 
