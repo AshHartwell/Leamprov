@@ -1,10 +1,12 @@
-+++
-title = "Shows"
-[menu.main]
-identifier = "github-repo-theme"
-weight = 3
-
-+++
+---
+title: Shows
+menu:
+  main:
+    identifier: github-repo-theme
+    weight: 3
+weight: 1
+date: 2023-02-05T12:34:35.977Z
+---
 ## Next Show: Friday 17th February 2022
 
 #### Flopbusters - An Improvised Comedy Show
@@ -14,27 +16,7 @@ weight = 3
 * Time: 7:30pm (Doors open at 7pm)
 * Tickets: £5
 
-<!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.co.uk/e/flopbusters-an-improvised-movie-tickets-418178281497" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
-<!-- You can customize this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-418178281497" type="button">Buy Tickets</button>
-
-<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-var exampleCallback = function() {
-console.log('Order complete!');
-};
-
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '418178281497',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-418178281497',
-        onOrderComplete: exampleCallback
-    });
-
-</script>
+T﻿ickets available [here](https://www.eventbrite.co.uk/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-413347041127).
 
 #### Future Shows
 
