@@ -12,7 +12,7 @@ date: 2023-02-05T12:34:35.977Z
 #### Flopbusters - An Improvised Comedy Show
 
 * Where: Leicester (venue tbd)
-* When: Friday 17th October 2022
+* When: Friday 17th February 2022
 * Time: 9pm
 * Tickets: £?
 
@@ -23,7 +23,7 @@ T﻿ickets available (insert link).
 #### The Elephants In The Room
 
 * Where: Leicester (venue tbd)
-* When: Saturday 18th
+* When: Saturday 18th February
 * Time: 5pm (Doors open at 7pm)
 * Tickets: £?
 
@@ -38,8 +38,11 @@ T﻿ickets available (insert link).
 <!-- You can customize this button any way you like -->
 
 <!-- Noscript content for added SEO -->
+
 <noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-long-shot-a-fully-improvised-show-improvised-comedy-tickets-506679982467" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
+
 <!-- You can customize this button any way you like -->
+
 <button id="eventbrite-widget-modal-trigger-506679982467" type="button">Buy Tickets</button>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
