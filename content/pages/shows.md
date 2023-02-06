@@ -9,7 +9,7 @@ date: 2023-02-05T12:34:35.977Z
 ---
 ## Next Show: Friday 17th February 2023
 
-#### Flopbusters - An Improvised Comedy Show
+#### The Long Shot - An Improvised Comedy Show
 
 * Where: Leicester (venue tbd)
 * When: Friday 17th February 2023
@@ -32,6 +32,8 @@ T﻿ickets available (insert link).
 ## Following Show: Tuesday 21st February 2022
 
 #### The Long Shot - An Improvised Comedy Show
+
+Details Here
 
 <!--StartFragment-->
 
