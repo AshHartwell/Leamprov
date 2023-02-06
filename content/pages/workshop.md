@@ -43,6 +43,4 @@ As well as workshops and jams we are also a community and have built great frien
 
 Just turn up to one of our workshops! If you come to The Band Factory simply enter through the side door on the left of the building (in the car park) and you can join the workshop.
 
-We encourage our members to take lateral flow tests regularly, and you must not join the session if you are currently experiencing any symptoms of Coronavirus (a high temperature, new continuous cough or a loss in your sense of smell or taste).
-
 Registering on meetup isn't mandatory, but does help us contact you if anything changes (for instance if we need to cancel or swap venues). You can register for the next workshop [here](https://www.meetup.com/leamprov/)!
