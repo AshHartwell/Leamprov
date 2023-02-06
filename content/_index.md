@@ -3,7 +3,7 @@ title: We Are Leamprov.
 weight: 1
 date: 2023-02-06T21:36:43.161Z
 ---
-Leamprov is an improvised comedy community group based in Leamington Spa, Warwickshire. The group is run by the members for the members and encourages all abilities to have a go at improvised comedy in a safe and friendly environment. 
+Leamprov is an improvised comedy community group based in Leamington Spa, Warwickshire. The group is run by the members for the members and encourages all abilities to have a go at improvised comedy in a safe and friendly environment.  Test
 
 The group was founded and is managed by James Cannon, who has over 8 years of experience doing improvised comedy, performing across the county in a number of different improvised troupes.
 
