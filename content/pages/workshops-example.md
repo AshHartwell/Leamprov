@@ -4,7 +4,7 @@ title: Workshops example
 weight: 1
 date: 2023-02-07T14:04:42.099Z
 ---
-![](https://secure.meetupstatic.com/photos/event/3/4/a/600_500580842.webp?w=1920)
+![Promo Graphic for Leamprov Monday Night Workshops (The Band Factory, 7-9pm Price £3)](https://secure.meetupstatic.com/photos/event/3/4/a/600_500580842.webp?w=1920)
 
 <!--StartFragment-->
 
