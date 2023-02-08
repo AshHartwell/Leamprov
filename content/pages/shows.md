@@ -16,7 +16,9 @@ date: 2023-02-08T19:28:43.947Z
 * Time: 9pm
 * Tickets: £5
 
-T﻿ickets available (insert link).
+T﻿ickets available: \
+\
+<https://comedy-festival.co.uk/tickets/the-long-shot/>
 
 ## Leicester Fringe: Shortform Saturday 18th February 2023
 
@@ -27,7 +29,7 @@ T﻿ickets available (insert link).
 * Time: 3pm (Doors open at 5pm)
 * Tickets: £5
 
-T﻿ickets available (insert link).
+T﻿ickets available:
 
 ## Following Show: Tuesday 21st February 2022
 
