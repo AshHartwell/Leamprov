@@ -13,7 +13,7 @@ date: 2023-02-08T19:28:43.947Z
 
 * Where: The Globe, Leicester.
 * When: Friday 17th February 2023
-* Time: 9pm
+* Time: 9pm (Doors open at 8:40pm)
 * Tickets: £5
 
 T﻿ickets available: \
@@ -26,7 +26,7 @@ T﻿ickets available: \
 
 * Where: The Globe, Leicester.
 * When: Saturday 18th February 2023.
-* Time: 3pm (Doors open at 5pm)
+* Time: 3pm (Doors open at 2:40pm)
 * Tickets: £5
 
 T﻿ickets available:\
