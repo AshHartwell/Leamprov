@@ -11,10 +11,10 @@ date: 2023-02-05T12:34:35.977Z
 
 #### The Long Shot - An Improvised Comedy Show
 
-* Where: Leicester (venue tbd)
+* Where: The Globe, Leicester.
 * When: Friday 17th February 2023
 * Time: 9pm
-* Tickets: £?
+* Tickets: £5
 
 T﻿ickets available (insert link).
 
@@ -22,10 +22,10 @@ T﻿ickets available (insert link).
 
 #### The Elephants In The Room
 
-* Where: Leicester (venue tbd)
-* When: Saturday 18th February
-* Time: 5pm (Doors open at 7pm)
-* Tickets: £?
+* Where: The Globe, Leicester.
+* When: Saturday 18th February 2023.
+* Time: 3pm (Doors open at 5pm)
+* Tickets: £5
 
 T﻿ickets available (insert link).
 
