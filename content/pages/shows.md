@@ -13,10 +13,12 @@ date: 2023-02-08T19:28:43.947Z
 
 * Where: The Globe, Leicester.
 * When: Friday 17th February 2023
-* Time: 9pm
+* Time: 9pm (Doors open at 8:40pm)
 * Tickets: £5
 
-T﻿ickets available (insert link).
+T﻿ickets available: \
+\
+<https://comedy-festival.co.uk/tickets/the-long-shot/>
 
 ## Leicester Fringe: Shortform Saturday 18th February 2023
 
@@ -24,10 +26,12 @@ T﻿ickets available (insert link).
 
 * Where: The Globe, Leicester.
 * When: Saturday 18th February 2023.
-* Time: 3pm (Doors open at 5pm)
+* Time: 3pm (Doors open at 2:40pm)
 * Tickets: £5
 
-T﻿ickets available (insert link).
+T﻿ickets available:\
+\
+<https://comedy-festival.co.uk/tickets/the-elephant-in-the-room-an-improvised-comedy-show/>
 
 ## Following Show: Tuesday 21st February 2022
 
