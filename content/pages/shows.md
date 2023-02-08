@@ -29,7 +29,9 @@ T﻿ickets available: \
 * Time: 3pm (Doors open at 5pm)
 * Tickets: £5
 
-T﻿ickets available:
+T﻿ickets available:\
+\
+<https://comedy-festival.co.uk/tickets/the-elephant-in-the-room-an-improvised-comedy-show/>
 
 ## Following Show: Tuesday 21st February 2022
 
