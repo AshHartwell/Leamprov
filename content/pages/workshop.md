@@ -7,40 +7,39 @@ menu:
 weight: 1
 date: 2023-02-05T12:36:12.458Z
 ---
-We run a series of workshops which are suitable for everyone. Most people who start attending our workshops have never tried improv before, so don't worry - you will quickly pick it up!
+![Promo Graphic for Leamprov Monday Night Workshops (The Band Factory, 7-9pm Price £3)](https://secure.meetupstatic.com/photos/event/3/4/a/600_500580842.webp?w=1920)
 
-Before attending, please see our [community standards](../community-standards/).
+<!--StartFragment-->
 
-We hold workshops most Mondays at the Band Factory - Please check our [meetup](https://www.meetup.com/leamprov/) to see when we are running our next workshop. Your first workshop is free, and only £3 per week thereafter.
-
-You can find the band factory at the map below:
-
-<!-- Below HTML code generates a map to the band factory -->
-
-<iframe width="100%" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=The%20band%20factory,%20Leamington%20Spa,%20united%20kingdom&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"> </iframe>
-
-<!-- This is the end of the HTML code --> 
-
-#### What's it like?
-
-The workshops are fun, no-pressure and open to all skill levels! Each month covers a particular topic or theme, however every session is beginner-friendly so don't worry about joining part way through the month. We have included some photos of the workshops below.
-
-<img src="/uploads/18-10-21-1.jpg" width=300px>
-
-<img src="/uploads/04-10-21-7.jpg" width=300px>
-
-Once a month we also host a 'jam', where rather than learning new skills everyone gets a chance to perform if they want to. The photo below is from our Halloween Jam.
-
-<img src="/uploads/25-10-21-21.jpg" width=300px>
-
-<img src="/uploads/27-09-21-7.jpg" width=300px>
-
-As well as workshops and jams we are also a community and have built great friendships - after workshops everyone is welcome (but not obliged!) to stay for a drink, and we also host  socials (like the murder mystery below, nights out, Christmas meals and even trips together).
-
-<img src="/uploads/05-11-21.jpg" width=300px>
-
-#### How can I join?
-
-Just turn up to one of our workshops! If you come to The Band Factory simply enter through the side door on the left of the building (in the car park) and you can join the workshop.
+Our drop-in workshops are every Monday 7-9pm at the Band Factory in Leamington. Your first workshop is free with every workshop and jam after being £3.00. We hope to keep the price as low as possible.
 
 Registering on meetup isn't mandatory, but does help us contact you if anything changes (for instance if we need to cancel or swap venues). You can register for the next workshop [here](https://www.meetup.com/leamprov/)!
+
+**Never done improv before?**\
+All our workshops are aimed at all abilities with James and other members available to support you if you have never done any improvised comedy before.\
+James’ ethos is 'loud, proud, and wrong,' so please do not be afraid to have a go!  \
+\
+**Structure of the Workshops**\
+Each month, we focus on a theme. Over the course of 3-4 weeks, we focus on different aspects of that theme, starting at the very basics and working upwards. Examples include character work, miming, and spontaneity. The last Monday of the month is reserved for the Improv Jam, a relaxed performance environment where everyone gets a chance to play some improv games on stage, or watch others have a go if you prefer.
+
+<!--EndFragment-->
+
+# Upcoming Workshops:
+
+## Monday 13/2/23: Short-Form Improv Comedy Workshop- Exploring Your Environment
+
+7pm-9pm The Band Factory
+
+[Attend on Meetup](https://www.meetup.com/leamprov/events/pgzdrsyfcdbrb/)
+
+## Monday 20/2/23: Short-Form Improv Comedy Workshop- Detailed Mime
+
+7pm-9pm The Band Factory
+
+[Attend on Meetup](https://www.meetup.com/leamprov/events/pgzdrsyfcdbbc/)
+
+## Monday 27/2/23: Leamprov February Hat Jam
+
+7pm-9pm The Band Factory
+
+[Attend on Meetup](https://www.meetup.com/leamprov/events/pgzdrsyfcdbkc/)
