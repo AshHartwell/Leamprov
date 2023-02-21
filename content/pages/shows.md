@@ -7,9 +7,9 @@ menu:
 weight: 1
 date: 2023-02-08T19:28:43.947Z
 ---
-## Tuesday 21st February 2022 (postponed due to flood)
+## Tuesday 21st February 2023 (postponed due to flood!)
 
-#### 'The Long Shot' - An Improvised Comedy Show
+#### 'The Long Shot' - An Improvised Comedy Show, 7pm. £5 per ticket.
 
 at T﻿emperance, 3 Bath Street, Leamington Spa,  CV31 3AF.
 
@@ -47,209 +47,18 @@ at T﻿emperance, 3 Bath Street, Leamington Spa,  CV31 3AF.
 
 ###### Come along and join the improv party 🎉
 
-\
-\
-Sunday 12th March
+#### \
 
-#### The Long Shot - An Improvised Comedy Show\
+## \
 
-\
-S﻿heffield 
-
-Details Here
-
-<!--StartFragment-->
-
-<!-- You can customize this button any way you like -->
-
-<!-- Noscript content for added SEO -->
-
-<noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-long-shot-a-fully-improvised-show-improvised-comedy-tickets-506679982467" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
-
-<!-- You can customize this button any way you like -->
-
-<button id="eventbrite-widget-modal-trigger-506679982467" type="button">Buy Tickets</button>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '506679982467',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-506679982467',
-        onOrderComplete: exampleCallback
-    });
-</script>
-
-<!--EndFragment-->
-
-Come along and join the improv party 🎉
-
-Tuesday 4th April 
-
-#### The Long Shot - An Improvised Comedy Show\
+## S﻿hows coming up in 2023! More details coming soon...\
 
 \
-Temperance, Leamington Spa.
+S﻿unday 12 March 2023, Sheffield
+T﻿uesday 4 April 2023, Temperance in Leamington Spa\
+W﻿ednesday 19 April 1000 Trades in Birmingham
+Saturday and Sunday 27 - 28 May 2023 Brighton Fringe
+T﻿uesday 27 June 2023 at Temperance in Leamington Spa\
+S﻿aturday and Sunday 5-6 August, Art in the Park in Leamington Spa
 
-Details Here
-
-<!--StartFragment-->
-
-<!-- You can customize this button any way you like -->
-
-<!-- Noscript content for added SEO -->
-
-<noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-long-shot-a-fully-improvised-show-improvised-comedy-tickets-506679982467" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
-
-<!-- You can customize this button any way you like -->
-
-<button id="eventbrite-widget-modal-trigger-506679982467" type="button">Buy Tickets</button>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '506679982467',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-506679982467',
-        onOrderComplete: exampleCallback
-    });
-</script>
-
-<!--EndFragment-->
-
-Come along and join the improv party 🎉
-
-Wednesday 19th April
-
-#### The Long Shot - An Improvised Comedy Show\
-
-\
-1000 Trades, Birmingham 
-
-Details Here
-
-<!--StartFragment-->
-
-<!-- You can customize this button any way you like -->
-
-<!-- Noscript content for added SEO -->
-
-<noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-long-shot-a-fully-improvised-show-improvised-comedy-tickets-506679982467" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
-
-<!-- You can customize this button any way you like -->
-
-<button id="eventbrite-widget-modal-trigger-506679982467" type="button">Buy Tickets</button>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '506679982467',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-506679982467',
-        onOrderComplete: exampleCallback
-    });
-</script>
-
-<!--EndFragment-->
-
-Come along and join the improv party 🎉
-
-Saturday 27th May
-
-#### \---\
-
-\
-Brighton Fringe
-
-Details Here
-
-<!--StartFragment-->
-
-<!-- You can customize this button any way you like -->
-
-<!-- Noscript content for added SEO -->
-
-<noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-long-shot-a-fully-improvised-show-improvised-comedy-tickets-506679982467" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
-
-<!-- You can customize this button any way you like -->
-
-<button id="eventbrite-widget-modal-trigger-506679982467" type="button">Buy Tickets</button>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '506679982467',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-506679982467',
-        onOrderComplete: exampleCallback
-    });
-</script>
-
-<!--EndFragment-->
-
-Come along and join the improv party 🎉
-
-Sunday 28th May
-
-#### The Long Shot - An Improvised Comedy Show\
-
-\
-Brighton Fringe
-
-Details Here
-
-<!--StartFragment-->
-
-<!-- You can customize this button any way you like -->
-
-<!-- Noscript content for added SEO -->
-
-<noscript><a href="https://www.eventbrite.co.uk/e/leamprov-the-long-shot-a-fully-improvised-show-improvised-comedy-tickets-506679982467" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
-
-<!-- You can customize this button any way you like -->
-
-<button id="eventbrite-widget-modal-trigger-506679982467" type="button">Buy Tickets</button>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '506679982467',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-506679982467',
-        onOrderComplete: exampleCallback
-    });
-</script>
-
-<!--EndFragment-->
-
-Come along and join the improv party 🎉
+#### Come along and join the improv party! 🎉
