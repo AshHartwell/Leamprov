@@ -8,7 +8,7 @@ weight: 1
 date: 2023-02-08T19:28:43.947Z
 ---
 ## Tuesday 21st February 2023 (postponed due to flood!)
-##N﻿ow rescheduled to 2nd March 2023.
+N﻿ow rescheduled to 2nd March 2023.
 
 #### 'The Long Shot' - An Improvised Comedy Show, 7pm. £5 per ticket.
 
