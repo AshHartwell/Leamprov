@@ -11,7 +11,6 @@ date: 2023-02-08T19:28:43.947Z
 
 #### 'The Long Shot' - An Improvised Comedy Show
 
-#### \
 at T﻿emperance, 3 Bath Street, Leamington Spa,  CV31 3AF.
 
 ![](/uploads/temperance-.png)
