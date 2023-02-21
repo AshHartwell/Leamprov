@@ -16,8 +16,6 @@ at T﻿emperance, Leamington Spa
 
 ![](/uploads/temperance-.png)
 
-Details Here
-
 <!--StartFragment-->
 
 <!-- You can customize this button any way you like -->
