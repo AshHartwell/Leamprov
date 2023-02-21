@@ -9,11 +9,12 @@ date: 2023-02-08T19:28:43.947Z
 ---
 ## Tuesday 21st February 2022 (postponed due to flood)
 
-#### 'The Long Shot' - An Improvised Comedy Show\
+#### 'The Long Shot' - An Improvised Comedy Show
+
 \
 at T﻿emperance, Leamington Spa 
 
-![]()
+![](/uploads/temperance-.png)
 
 Details Here
 
@@ -54,6 +55,7 @@ Details Here
 Sunday 12th March
 
 #### The Long Shot - An Improvised Comedy Show\
+
 \
 S﻿heffield 
 
@@ -91,11 +93,10 @@ Details Here
 
 Come along and join the improv party 🎉
 
-
-
 Tuesday 4th April 
 
 #### The Long Shot - An Improvised Comedy Show\
+
 \
 Temperance, Leamington Spa.
 
@@ -133,11 +134,10 @@ Details Here
 
 Come along and join the improv party 🎉
 
-
-
 Wednesday 19th April
 
 #### The Long Shot - An Improvised Comedy Show\
+
 \
 1000 Trades, Birmingham 
 
@@ -178,6 +178,7 @@ Come along and join the improv party 🎉
 Saturday 27th May
 
 #### \---\
+
 \
 Brighton Fringe
 
@@ -218,6 +219,7 @@ Come along and join the improv party 🎉
 Sunday 28th May
 
 #### The Long Shot - An Improvised Comedy Show\
+
 \
 Brighton Fringe
 
