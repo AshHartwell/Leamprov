@@ -7,11 +7,13 @@ menu:
 weight: 1
 date: 2023-02-08T19:28:43.947Z
 ---
-## Tuesday 21st February 2022 (postponed due to flood)
+## Tuesday 21st February 2023 (postponed due to flood!)
 
-#### The Long Shot - An Improvised Comedy Show
+#### 'The Long Shot' - An Improvised Comedy Show, 7pm. £5 per ticket.
 
-Details Here
+at T﻿emperance, 3 Bath Street, Leamington Spa,  CV31 3AF.
+
+![](/uploads/temperance-.png)
 
 <!--StartFragment-->
 
@@ -43,4 +45,20 @@ Details Here
 
 <!--EndFragment-->
 
-Come along and join the improv party 🎉
+#### Come along and join the improv party! 🎉\\\
+
+
+
+
+
+
+
+## S﻿hows coming up in 2023! More details coming soon...
+
+
+S﻿unday, 12 March 2023, Sheffield\
+T﻿uesday, 4 April 2023, Temperance in Leamington Spa\
+W﻿ednesday, 19 April 2023, 1000 Trades in Birmingham\
+Saturday and Sunday, 27 - 28 May 2023, Brighton Fringe\
+T﻿uesday 27 June 2023 at Temperance in Leamington Spa\
+S﻿aturday and Sunday 5-6 August, Art in the Park in Leamington Spa
