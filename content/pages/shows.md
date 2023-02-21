@@ -45,7 +45,7 @@ at T﻿emperance, 3 Bath Street, Leamington Spa,  CV31 3AF.
 
 <!--EndFragment-->
 
-#### Come along and join the improv party! 🎉
+#### Come along and join the improv party! 🎉\\\
 
 
 
@@ -56,7 +56,7 @@ at T﻿emperance, 3 Bath Street, Leamington Spa,  CV31 3AF.
 ## S﻿hows coming up in 2023! More details coming soon...
 
 
-S﻿unday, 12 March 2023, Sheffield
+S﻿unday, 12 March 2023, Sheffield\
 T﻿uesday, 4 April 2023, Temperance in Leamington Spa\
 W﻿ednesday, 19 April 2023, 1000 Trades in Birmingham\
 Saturday and Sunday, 27 - 28 May 2023, Brighton Fringe\
