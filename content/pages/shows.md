@@ -11,15 +11,15 @@ date: 2023-02-08T19:28:43.947Z
 
 Sunday 12 March 2023, 6:30 (for 7pm start) until 9pm, at DINA Venue, Sheffield.
 
-
-
- 
-
 ![](/uploads/temperance-.png)
 
 A﻿t DINA Venue, 12 Fitzalan Square, Sheffield, S1 2AZ.
 
-[B﻿uy Tickets](https://www.eventbrite.co.uk/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-557163369637?aff=ebdssbdestsearch)Price: p﻿ay what you feel at the venue.
+[](https://www.eventbrite.co.uk/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-557163369637?aff=ebdssbdestsearch)Price: p﻿ay what you feel at the venue.
+
+[C﻿lick here for more information](https://allevents.in/sheffield/st%C3%BCrike-second-sundays-feat-leamprov/200024148512439)
+
+
 
 
 
