@@ -25,6 +25,8 @@ A﻿t DINA Venue, 12 Fitzalan Square, Sheffield, S1 2AZ.
 
 ### Tuesday 4 April 2023, Temperance Bar, Leamington Spa
 
+![](/uploads/temperance-.png)
+
 At Temperance Bar, 33 Bath Street, Leamington Spa,  CV31 3AF
 
 [B﻿uy Tickets](https://www.eventbrite.co.uk/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-557163369637?aff=ebdssbdestsearch)
