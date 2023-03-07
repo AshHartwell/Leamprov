@@ -9,7 +9,7 @@ date: 2023-02-08T19:28:43.947Z
 ---
 # Stürike Second Sundays feat. Leamprov
 
-Sunday 12 March 2023, 6:30 (for 7pm start) until 9pm, at DINA Venue, Sheffield.
+### Sunday 12 March 2023, 6:30 (for 7pm start) until 9pm, at DINA Venue, Sheffield.
 
 ![](/uploads/owen-clare-coral.jpg)
 
