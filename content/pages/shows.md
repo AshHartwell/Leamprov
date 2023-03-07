@@ -21,7 +21,7 @@ A﻿t DINA Venue, 12 Fitzalan Square, Sheffield, S1 2AZ.
 
 ## T﻿he Elephant In The Room: An Improvised Comedy Show
 
-### Tuesday 4 April 2023, 7pm (for 7:30 start),  Temperance Bar, Leamington Spa
+### Tuesday 4 April 2023, 7pm (for 7:30 start) until 8:40, Temperance Bar, Leamington Spa
 
 ![](/uploads/temperance-.png)
 
