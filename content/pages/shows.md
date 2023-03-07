@@ -17,7 +17,7 @@ A﻿t DINA Venue, 12 Fitzalan Square, Sheffield, S1 2AZ.
 
 [](https://www.eventbrite.co.uk/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-557163369637?aff=ebdssbdestsearch)Price: p﻿ay what you feel at the venue.
 
-[C﻿lick here for more information](https://allevents.in/sheffield/st%C3%BCrike-second-sundays-feat-leamprov/200024148512439)
+[C﻿lick here for more information](https://allevents.in/sheffield/st%C3%BCrike-second-sundays-feat-leamprov/200024148512439) <br>
 
 ## T﻿he Elephant In The Room: An Improvised Comedy Show
 
@@ -29,7 +29,7 @@ At Temperance Bar, 33 Bath Street, Leamington Spa,  CV31 3AF
 
 [B﻿uy Tickets](https://www.eventbrite.co.uk/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-557163369637?aff=ebdssbdestsearch)
 
-#### Come along and join the improv party! 🎉
+#### Come along and join the improv party! 🎉 <br>
 
 ## S﻿hows coming up in 2023! More details coming soon...
 
