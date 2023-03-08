@@ -9,7 +9,7 @@ date: 2023-03-08T16:10:26.641Z
 Use the following code 
 
 ```
-<table width="100%">
+<table width="100%" BORDER="0">
   <td>
   <td width="50%">Put Text Here</td>
   </td><td>
@@ -25,7 +25,7 @@ Change "Put Text Here" to any text you want on the left of the image, and "ENTER
 Example:
 
 ```
-<table width="100%">
+<table width="100%" BORDER="0">
   <td>
   <td width="50%">Hello my name is Dr Bean and I love beans. Come join me on my bean adventure.</td>
   </td><td>
@@ -36,7 +36,7 @@ Example:
 
 Would produce:
 
-<table width="100%">
+<table width="100%" BORDER="0" >
   <td>
   <td width="50%">Hello my name is Dr Bean and I love beans. Come join me on my bean adventure.</td>
   </td><td>
