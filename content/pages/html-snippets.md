@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: HTML Snippets
+title: HTML
 weight: 1
 date: 2023-03-08T16:10:26.641Z
 ---
