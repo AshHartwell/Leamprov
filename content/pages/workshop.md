@@ -26,20 +26,20 @@ Each month, we focus on a theme. Over the course of 3-4 weeks, we focus on diffe
 
 # Upcoming Workshops:
 
-## Monday 13/2/23: Short-Form Improv Comedy Workshop- Exploring Your Environment
+## Monday 13/3/23: Short-Form Improv Comedy Workshop- Bringing Realistic Characters
 
 7pm-9pm The Band Factory
 
-[Attend on Meetup](https://www.meetup.com/leamprov/events/pgzdrsyfcdbrb/)
+[Attend on Meetup](https://www.meetup.com/leamprov/events/291783386/)
 
-## Monday 20/2/23: Short-Form Improv Comedy Workshop- Detailed Mime
-
-7pm-9pm The Band Factory
-
-[Attend on Meetup](https://www.meetup.com/leamprov/events/pgzdrsyfcdbbc/)
-
-## Monday 27/2/23: Leamprov February Hat Jam
+## Monday 20/3/23: Short-Form Improv Comedy Workshop- Status of Characters
 
 7pm-9pm The Band Factory
 
-[Attend on Meetup](https://www.meetup.com/leamprov/events/pgzdrsyfcdbkc/)
+[Attend on Meetup](https://www.meetup.com/leamprov/events/291940590?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+
+## Monday 27/3/23: Leamprov March Hat Jam
+
+7pm-9pm The Band Factory
+
+[Attend on Meetup](https://www.meetup.com/leamprov/events/pgzdrsyfcfbkc/)
