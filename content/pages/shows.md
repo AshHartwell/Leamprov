@@ -7,10 +7,6 @@ menu:
 weight: 1
 date: 2023-02-08T19:28:43.947Z
 ---
-
-
-![]()
-
 ## T﻿he Elephant In The Room: An Improvised Comedy Show
 
 ### Tuesday 4 April 2023, 7pm (for 7:30 start) until 8:40, Temperance Bar, Leamington Spa
