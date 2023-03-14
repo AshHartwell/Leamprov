@@ -17,15 +17,14 @@ At Temperance Bar, 33 Bath Street, Leamington Spa,  CV31 3AF
 
 [B﻿uy Tickets](https://www.eventbrite.co.uk/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-557163369637?aff=ebdssbdestsearch)<!--
 
-
-
 Midlands Improv Night, 1000 Trades, Birmingham 
 Wednesday 19 April 2023, 7:30 to 9:30 (Last entry 7:30) 
 
+![](/uploads/rai-leigh-kate-ben.jpg)
 
- 
-At 1000 Trades, 16 Frederick Street, Birmingham, B1 3HE.  
-Buy Tickets
+At 1000 Trades, 16 Frederick Street, Birmingham, B1 3HE.
+
+
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
