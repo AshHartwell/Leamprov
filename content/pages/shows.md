@@ -24,7 +24,7 @@ Wednesday 19 April 2023, 7:30 to 9:30 (Last entry 7:30)
 
 At 1000 Trades, 16 Frederick Street, Birmingham, B1 3HE.
 
-
+[Click here for more info](https://www.skiddle.com/whats-on/Birmingham/1000-Trades/Midlands-Improv-Night/36308285/)<!--
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
