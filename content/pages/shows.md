@@ -15,7 +15,7 @@ date: 2023-02-08T19:28:43.947Z
 
 At Temperance Bar, 33 Bath Street, Leamington Spa,  CV31 3AF
 
-[B﻿uy Tickets](https://www.eventbrite.co.uk/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-557163369637?aff=ebdssbdestsearch)<!--
+[B﻿uy Tickets](https://www.eventbrite.co.uk/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-557163369637?aff=ebdssbdestsearch)
 
 ## Midlands Improv Night
 
@@ -26,8 +26,6 @@ At Temperance Bar, 33 Bath Street, Leamington Spa,  CV31 3AF
 At 1000 Trades, 16 Frederick Street, Birmingham, B1 3HE.
 
 [Click here for more info](https://www.skiddle.com/whats-on/Birmingham/1000-Trades/Midlands-Improv-Night/36308285/)
-
-
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
