@@ -19,19 +19,19 @@ At Temperance Bar, 33 Bath Street, Leamington Spa,  CV31 3AF
 
 ## Midlands Improv Night
 
-### Wednesday 19 April 2023, 7:30 to 9:30 (Last entry 7:30), 1000 Trades, Birmingham 
+### Wednesday 19 April 2023, 7:30 to 9:30 (Last entry 7:30), 1000 Trades, Birmingham
 
-![](/uploads/rai-leigh-kate-ben.jpg)
+![]()
 
 At 1000 Trades, 16 Frederick Street, Birmingham, B1 3HE.
 
-[Click here for more info](https://www.skiddle.com/whats-on/Birmingham/1000-Trades/Midlands-Improv-Night/36308285/)<!--
+[Click here for more info](https://www.skiddle.com/whats-on/Birmingham/1000-Trades/Midlands-Improv-Night/36308285/)
+
+
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
-## S﻿hows coming up in 2023! More details coming soon...
-
-<!--
+### S﻿hows coming up in 2023! More details coming soon...
 
 Saturday and Sunday, 27 - 28 May 2023, Brighton Fringe\
 T﻿uesday 27 June 2023 at Temperance in Leamington Spa\
