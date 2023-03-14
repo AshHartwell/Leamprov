@@ -21,7 +21,7 @@ At Temperance Bar, 33 Bath Street, Leamington Spa,  CV31 3AF
 
 ### Wednesday 19 April 2023, 7:30 to 9:30 (Last entry 7:30), 1000 Trades, Birmingham
 
-![]()
+![](/uploads/rai-leigh-kate-ben.jpg)
 
 At 1000 Trades, 16 Frederick Street, Birmingham, B1 3HE.
 
