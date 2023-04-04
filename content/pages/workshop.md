@@ -25,11 +25,9 @@ Registering on meetup isn't mandatory, but does help us contact you if anything 
   <td>
   <td width="50%"><img src="blob:https://leamprov.com/8452b7e9-5c17-47c5-b3be-42b752d608a3" width="100%"></img></td>
   </td><td>
-  <td width="50%">
-**Never done improv before?**
-All our workshops are aimed at all abilities with James and other members available to support you if you have never done any improvised comedy before.
-James’ ethos is 'loud, proud, and wrong,' so please do not be afraid to have a go!  
-**Structure of the Workshops**
+  <td width="50%">All our workshops are aimed at all abilities, with James and other members available to support you if you have never done any improvised comedy before. James’ ethos is 'loud, proud, and wrong,' so please do not be afraid to have a go!  
+
+
 Each month, we focus on a theme. Over the course of 3-4 weeks, we focus on different aspects of that theme, starting at the very basics and working upwards. Examples include character work, miming, and spontaneity. The last Monday of the month is reserved for the Improv Jam, a relaxed performance environment where everyone gets a chance to play some improv games on stage, or watch others have a go if you prefer.</td>
   </td>
 </table>
