@@ -7,7 +7,7 @@ menu:
 weight: 1
 date: 2023-02-08T19:28:43.947Z
 ---
-## T﻿he Elephant In The Room: An Improvised Comedy Show
+## \*\*SOLD OUT\*\* T﻿he Elephant In The Room: An Improvised Comedy Show
 
 ### Tuesday 4 April 2023, 7pm (for 7:30 start) until 8:40, Temperance Bar, Leamington Spa
 
@@ -26,6 +26,16 @@ At Temperance Bar, 33 Bath Street, Leamington Spa,  CV31 3AF
 At 1000 Trades, 16 Frederick Street, Birmingham, B1 3HE.
 
 [Click here for more info](https://www.skiddle.com/whats-on/Birmingham/1000-Trades/Midlands-Improv-Night/36308285/)
+
+## Flopbusters: An Improvised Comedy Show
+
+### Tuesady 9th May 2023, 7pm (for 7:30 start) until 8:40, Temperance Bar, Leamington Spa
+
+![](https://www.brightonfringe.org/wp-content/uploads/2022/12/10-27-2022-112703-4781.jpg.webp)
+
+At Temperance Bar, 33 Bath Street, Leamington Spa,  CV31 3AF
+
+[B﻿uy Tickets](https://www.eventbrite.co.uk/e/flopbusters-improvised-comedy-tickets-607660608237)
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
