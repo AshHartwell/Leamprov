@@ -26,20 +26,24 @@ Each month, we focus on a theme. Over the course of 3-4 weeks, we focus on diffe
 
 # Upcoming Workshops:
 
-## Monday 13/3/23: Short-Form Improv Comedy Workshop- Bringing Realistic Characters
+## Monday 17/4/23: Short-Form Improv Comedy Workshop- Getting Outside your Head
 
 7pm-9pm The Band Factory
 
-[Attend on Meetup](https://www.meetup.com/leamprov/events/291783386/)
+[Attend on Meetup](https://www.meetup.com/leamprov/events/292537665/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 
-## Monday 20/3/23: Short-Form Improv Comedy Workshop- Status of Characters
-
-7pm-9pm The Band Factory
-
-[Attend on Meetup](https://www.meetup.com/leamprov/events/291940590?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
-
-## Monday 27/3/23: Leamprov March Hat Jam
+## Monday 24/4/23: Leamprov April Hat Jam
 
 7pm-9pm The Band Factory
 
-[Attend on Meetup](https://www.meetup.com/leamprov/events/pgzdrsyfcfbkc/)
+[Attend on Meetup](https://www.meetup.com/leamprov/events/289610341/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+
+## Monday 15/5/23: Short-Form Improv Comedy Workshop- Game of the Scene (Heightening)
+
+7pm-9pm The Band Factory
+
+[Attend on Meetup](https://www.meetup.com/leamprov/events/292665922/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+
+## Monday 22/5/23: Short-Form Improv Comedy Workshop- Game of the Scene (Exploring)
+
+[Attend on Meetup](https://www.meetup.com/leamprov/events/292665948/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
