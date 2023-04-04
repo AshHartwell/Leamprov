@@ -29,7 +29,7 @@ At 1000 Trades, 16 Frederick Street, Birmingham, B1 3HE.
 
 ## Flopbusters: An Improvised Comedy Show
 
-### Tuesady 9th May 2023, 7pm (for 7:30 start) until 9:00, Temperance Bar, Leamington Spa
+### Tuesday 9th May 2023, 7pm (for 7:30 start) until 9:00, Temperance Bar, Leamington Spa
 
 ![](https://www.brightonfringe.org/wp-content/uploads/2022/12/10-27-2022-112703-4781.jpg.webp)
 
