@@ -7,17 +7,7 @@ menu:
 weight: 1
 date: 2023-02-08T19:28:43.947Z
 ---
-## Midlands Improv Night
-
-### Wednesday 19 April 2023, 7:30 to 9:30 (Last entry 7:30), 1000 Trades, Birmingham
-
-![](/uploads/rai-leigh-kate-ben.jpg)
-
-At 1000 Trades, 16 Frederick Street, Birmingham, B1 3HE.
-
-[Click here for more info](https://www.skiddle.com/whats-on/Birmingham/1000-Trades/Midlands-Improv-Night/36308285/)
-
-## Flopbusters: An Improvised Comedy Show
+## 'Flopbusters: An Improvised Comedy Show'
 
 ### Tuesday 9th May 2023, 7pm (for 7:30 start) until 9:00, Temperance Bar, Leamington Spa
 
@@ -26,6 +16,18 @@ At 1000 Trades, 16 Frederick Street, Birmingham, B1 3HE.
 At Temperance Bar, 33 Bath Street, Leamington Spa,  CV31 3AF
 
 [B﻿uy Tickets](https://www.eventbrite.co.uk/e/flopbusters-improvised-comedy-tickets-607660608237)
+
+## 'The Elephand in the Room: an Improvised Comedy Show' at the Brighton Fringe
+
+### Saturday 27 May and Sunday 28 May, 2023 (16:15 show each day)
+
+![](/uploads/rai-leigh-kate-ben.jpg)
+
+A quick-fire improvised sketch show chock full of death-defying improv, fast paced performing and silly short comedy sketches.
+
+At The Caxton Arms, 36 North Gardens, Brighton BN1 3LB
+
+[Buy Tickets Here](https://www.brightonfringe.org/events/the-elephant-in-the-room-an-improvised-comedy-show/)
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
