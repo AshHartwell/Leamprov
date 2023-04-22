@@ -31,6 +31,10 @@ At Temperance Bar, 33 Bath Street, Leamington Spa,  CV31 3AF
 
 ### S﻿hows coming up in 2023! More details coming soon...
 
-Saturday and Sunday, 27 - 28 May 2023, Brighton Fringe\
+Saturday 27 May 2023, Brighton Fringe, 16:15-17:15\
+Sunday 28 May 2023, Brighton Fringe, 16:15-17:15\
 T﻿uesday 27 June 2023 at Temperance in Leamington Spa\
-S﻿aturday and Sunday 5-6 August, Art in the Park in Leamington Spa
+S﻿aturday and Sunday 5-6 August, Art in the Park in Leamington Spa\
+Saturday 19th August, Warwickshire Pride Performance (15-minute set), 12:15\
+Tuesday 19th of September - Temperance Show (1 hour show)\
+Tuesday 12th of December - Temperance Show (1 hour show)
