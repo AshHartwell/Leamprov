@@ -21,6 +21,7 @@ At Temperance Bar, 33 Bath Street, Leamington Spa,  CV31 3AF
 
 ### Saturday 27 May and Sunday 28 May, 2023 (16:15 show each day)
 
+
 ![](/uploads/rai-leigh-kate-ben.jpg)
 
 A quick-fire improvised sketch show chock full of death-defying improv, fast paced performing and silly short comedy sketches.
