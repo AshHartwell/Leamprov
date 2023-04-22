@@ -21,14 +21,23 @@ At Temperance Bar, 33 Bath Street, Leamington Spa,  CV31 3AF
 
 ### Saturday 27 May and Sunday 28 May, 2023 (16:15 show each day)
 
-
-![](/uploads/rai-leigh-kate-ben.jpg)
+![](/uploads/posed-everyone-kirsty-mouth-open.jpg)
 
 A quick-fire improvised sketch show chock full of death-defying improv, fast paced performing and silly short comedy sketches.
 
 At The Caxton Arms, 36 North Gardens, Brighton BN1 3LB
 
 [Buy Tickets Here](https://www.brightonfringe.org/events/the-elephant-in-the-room-an-improvised-comedy-show/)
+
+## 'Flopbusters: An Improvised Comedy Show'
+
+### 27 May 2023 at 18:45 - 19:45
+
+
+
+F﻿lopbusters - An Improvised Movie is an improvised comedy show where a movie will be written and performed in-front of your eyes. Will it be the next Blockbuster or Hollywood's next flop? You decide!
+
+Based on suggestions from the audience, the Flopbusters cast will create the characters and story in the moment and perform it to the audience in this hilarious improvised show.
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
