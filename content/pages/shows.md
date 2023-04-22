@@ -29,7 +29,7 @@ At The Caxton Arms, 36 North Gardens, Brighton BN1 3LB
 
 [Buy Tickets Here](https://www.brightonfringe.org/events/the-elephant-in-the-room-an-improvised-comedy-show/)
 
-## 'Flopbusters: An Improvised Comedy Show'
+## 'Flopbusters: An Improvised Comedy Show' at the Brighton Fringe.
 
 ### Saturday 27 May 2023 at 18:45 - 19:45
 
