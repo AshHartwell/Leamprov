@@ -31,20 +31,27 @@ At The Caxton Arms, 36 North Gardens, Brighton BN1 3LB
 
 ## 'Flopbusters: An Improvised Comedy Show'
 
-### 27 May 2023 at 18:45 - 19:45
+### Saturday 27 May 2023 at 18:45 - 19:45
 
-
+![](https://www.brightonfringe.org/wp-content/uploads/2022/12/10-27-2022-112703-4781.jpg.webp)
 
 F﻿lopbusters - An Improvised Movie is an improvised comedy show where a movie will be written and performed in-front of your eyes. Will it be the next Blockbuster or Hollywood's next flop? You decide!
 
 Based on suggestions from the audience, the Flopbusters cast will create the characters and story in the moment and perform it to the audience in this hilarious improvised show.
 
+At The Caxton Arms, 36 North Gardens, Brighton BN1 3LB
+
+[B﻿uy Tickets](https://www.brightonfringe.org/events/flopbusters-improvised-comedy-movie/)
+
+
+
+
+
+
 #### Come along and join the improv party! 🎉 <br><br><br>
 
-### S﻿hows coming up in 2023! More details coming soon...
+### More Shows coming up in 2023! Details coming soon...
 
-Saturday 27 May 2023, Brighton Fringe, 16:15-17:15\
-Sunday 28 May 2023, Brighton Fringe, 16:15-17:15\
 T﻿uesday 27 June 2023 at Temperance in Leamington Spa\
 S﻿aturday and Sunday 5-6 August, Art in the Park in Leamington Spa\
 Saturday 19th August, Warwickshire Pride Performance (15-minute set), 12:15\
