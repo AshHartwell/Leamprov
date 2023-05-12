@@ -7,16 +7,6 @@ menu:
 weight: 1
 date: 2023-02-08T19:28:43.947Z
 ---
-## 'Flopbusters: An Improvised Comedy Show'
-
-### Tuesday 9th May 2023, 7pm (for 7:30 start) until 9:00, Temperance Bar, Leamington Spa
-
-![](https://www.brightonfringe.org/wp-content/uploads/2022/12/10-27-2022-112703-4781.jpg.webp)
-
-At Temperance Bar, 33 Bath Street, Leamington Spa,  CV31 3AF
-
-[B﻿uy Tickets](https://www.eventbrite.co.uk/e/flopbusters-improvised-comedy-tickets-607660608237)
-
 ## 'The Elephand in the Room: an Improvised Comedy Show' at the Brighton Fringe
 
 ### Saturday 27 May and Sunday 28 May, 2023 (16:15 show each day)
@@ -42,11 +32,6 @@ Based on suggestions from the audience, the Flopbusters cast will create the cha
 At The Caxton Arms, 36 North Gardens, Brighton BN1 3LB
 
 [B﻿uy Tickets](https://www.brightonfringe.org/events/flopbusters-improvised-comedy-movie/)
-
-
-
-
-
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
