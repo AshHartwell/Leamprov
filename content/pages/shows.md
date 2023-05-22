@@ -7,7 +7,7 @@ menu:
 weight: 1
 date: 2023-02-08T19:28:43.947Z
 ---
-## 'The Elephand in the Room: an Improvised Comedy Show' at the Brighton Fringe
+## 'The Elephant in the Room: an Improvised Comedy Show' at the Brighton Fringe
 
 ### Saturday 27 May and Sunday 28 May, 2023 (16:15 show each day)
 
