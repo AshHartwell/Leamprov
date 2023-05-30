@@ -7,38 +7,39 @@ menu:
 weight: 1
 date: 2023-02-08T19:28:43.947Z
 ---
-## 'The Elephant in the Room: an Improvised Comedy Show' at the Brighton Fringe
+## 'The Elephant in the Room: an Improvised Comedy Show'
 
-### Saturday 27 May and Sunday 28 May, 2023 (16:15 show each day)
+### Tuesday 27 June 2023 at 7PM
 
-![](/uploads/posed-everyone-kirsty-mouth-open.jpg)
+![](/uploads/rai-leigh-kate-ben.jpg)
 
 A quick-fire improvised sketch show chock full of death-defying improv, fast paced performing and silly short comedy sketches.
 
-At The Caxton Arms, 36 North Gardens, Brighton BN1 3LB
+At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
-[Buy Tickets Here](https://www.brightonfringe.org/events/the-elephant-in-the-room-an-improvised-comedy-show/)
+[Buy Tickets Here](https://www.eventbrite.com/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-645273599707?aff=ebdssbdestsearch&keep_tld=1)
 
-## 'Flopbusters: An Improvised Comedy Show' at the Brighton Fringe.
+## Leamprov at 'Art in the Park'
 
-### Saturday 27 May 2023 at 18:45 - 19:45
+### Saturday and Sunday 5-6 August 2023 
 
-![](https://www.brightonfringe.org/wp-content/uploads/2022/12/10-27-2022-112703-4781.jpg.webp)
+![](/uploads/d5e96ddd-dbf4-402e-942c-151f3fbb8801.jpg)
 
-F﻿lopbusters - An Improvised Movie is an improvised comedy show where a movie will be written and performed in-front of your eyes. Will it be the next Blockbuster or Hollywood's next flop? You decide!
+Based on suggestions from the audience, Leamprov will create the characters and story in the moment and perform it to the audience in this hilarious improvised show.
 
-Based on suggestions from the audience, the Flopbusters cast will create the characters and story in the moment and perform it to the audience in this hilarious improvised show.
+At The Jephson Gardens, Newbold Terrace, Leamington Spa CV32 4AA
 
-At The Caxton Arms, 36 North Gardens, Brighton BN1 3LB
+Free Event. 
 
-[B﻿uy Tickets](https://www.brightonfringe.org/events/flopbusters-improvised-comedy-movie/)
+
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
 ### More Shows coming up in 2023! Details coming soon...
 
-T﻿uesday 27 June 2023 at Temperance in Leamington Spa\
-S﻿aturday and Sunday 5-6 August, Art in the Park in Leamington Spa\
+\
+Tuesday 8 August 2023 at Temperance in Leamington Spa\
 Saturday 19th August, Warwickshire Pride Performance (15-minute set), 12:15\
 Tuesday 19th of September - Temperance Show (1 hour show)\
-Tuesday 12th of December - Temperance Show (1 hour show)
+Tuesday 31 October 2023 at Temperance\
+Tuesday 12th of December 2023 - Temperance Show (1 hour show)
