@@ -7,21 +7,9 @@ menu:
 weight: 1
 date: 2023-02-08T19:28:43.947Z
 ---
-## 'The Elephant in the Room: an Improvised Comedy Show'
-
-### Tuesday 27 June 2023 at 7PM
-
-![](/uploads/rai-leigh-kate-ben.jpg)
-
-A quick-fire improvised sketch show chock full of death-defying improv, fast paced performing and silly short comedy sketches.
-
-At Temperance, 33 Bath St, Leamington Spa CV31 3AF
-
-[Buy Tickets Here](https://www.eventbrite.com/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-645273599707?aff=ebdssbdestsearch&keep_tld=1)
-
 ## Leamprov at 'Art in the Park'
 
-### Saturday and Sunday 5-6 August 2023 
+### Saturday and Sunday 5-6 August 2023
 
 ![](/uploads/d5e96ddd-dbf4-402e-942c-151f3fbb8801.jpg)
 
@@ -31,7 +19,19 @@ At The Jephson Gardens, Newbold Terrace, Leamington Spa CV32 4AA
 
 Free Event. 
 
+## 'The Elephant in the Room: an Improvised Comedy Show'
 
+### Tuesday 8 August 2023 at 7:30pm (doors open at 7pm)
+
+![](/uploads/posed-everyone-kirsty-mouth-open.jpg)
+
+
+
+A quick-fire improvised sketch show chock full of death-defying improv, fast paced performing and silly short comedy sketches.
+
+At Temperance, 33 Bath St, Leamington Spa CV31 3AF
+
+[Buy Tickets Here](https://www.eventbrite.com/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-645273599707?aff=ebdssbdestsearch&keep_tld=1)
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
