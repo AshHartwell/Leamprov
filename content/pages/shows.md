@@ -37,8 +37,7 @@ At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
 ### More Shows coming up in 2023! Details coming soon...
 
-\
-Tuesday 8 August 2023 at Temperance in Leamington Spa\
+
 Saturday 19th August, Warwickshire Pride Performance (15-minute set), 12:15\
 Tuesday 19th of September - Temperance Show (1 hour show)\
 Tuesday 31 October 2023 at Temperance\
