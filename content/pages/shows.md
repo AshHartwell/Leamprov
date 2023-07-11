@@ -19,15 +19,13 @@ At The Jephson Gardens, Newbold Terrace, Leamington Spa CV32 4AA
 
 Free Event. 
 
-## 'The Elephant in the Room: an Improvised Comedy Show'
+## 'Flopbusters: an Improvised Comedy Show'
 
 ### Tuesday 8 August 2023 at 7:30pm (doors open at 7pm)
 
 ![](/uploads/posed-everyone-kirsty-mouth-open.jpg)
 
-
-
-A quick-fire improvised sketch show chock full of death-defying improv, fast paced performing and silly short comedy sketches.
+An Improvised Comedy Show where your movie suggestion is instantly turned into Hollywood's next Blockbuster!
 
 At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
@@ -36,7 +34,6 @@ At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 #### Come along and join the improv party! 🎉 <br><br><br>
 
 ### More Shows coming up in 2023! Details coming soon...
-
 
 Saturday 19th August, Warwickshire Pride Performance (15-minute set), 12:15\
 Tuesday 19th of September - Temperance Show (1 hour show)\
