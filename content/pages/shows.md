@@ -29,7 +29,7 @@ An Improvised Comedy Show where your movie suggestion is instantly turned into H
 
 At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
-[Buy Tickets Here](https://www.eventbrite.com/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-645273599707?aff=ebdssbdestsearch&keep_tld=1)
+[Buy Tickets Here](https://www.eventbrite.co.uk/e/flopbusters-improvised-comedy-tickets-671654224867?aff=ebdsoporgprofile)
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
