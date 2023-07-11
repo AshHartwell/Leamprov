@@ -21,7 +21,7 @@ Free Event.
 
 ## 'Flopbusters: an Improvised Comedy Show'
 
-### Tuesday 8 August 2023 at 7:30pm (doors open at 7pm)
+### Tuesday 8 August 2023 at 7:30pm (doors open at 7pm) - 9pm
 
 ![](/uploads/posed-everyone-kirsty-mouth-open.jpg)
 
