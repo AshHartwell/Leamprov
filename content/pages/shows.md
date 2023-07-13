@@ -11,9 +11,9 @@ date: 2023-02-08T19:28:43.947Z
 
 ### Saturday 5th August 2023 - Free event!
 
-### 30 minute shows at 11:30am and 2pm
+#### 30 minute shows at 11:30am and 2pm
 
-### Free 45 minute workshops for beginners at 12:15pm and 2:45pm
+#### Free 45 minute workshops for beginners at 12:15pm and 2:45pm
 
 ![](/uploads/d5e96ddd-dbf4-402e-942c-151f3fbb8801.jpg)
 
@@ -24,8 +24,6 @@ Come and see us perform! Or come and get involved in one of our free workshops!
 At The Jephson Gardens, Newbold Terrace, Leamington Spa CV32 4AA
 
 Free Event. 
-
-
 
 ## 'Flopbusters: an Improvised Comedy Show'
 
