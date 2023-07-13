@@ -8,8 +8,8 @@ weight: 1
 date: 2023-02-08T19:28:43.947Z
 ---
 ## Leamprov at 'Art in the Park' at Jephson Gardens, Leamington Spa.
-
 ### Saturday 5th August 2023 - Free event!
+
 #### 30 minute shows at 11:30am and 2pm
 #### Free 45 minute workshops for beginners at 12:15pm and 2:45pm
 
