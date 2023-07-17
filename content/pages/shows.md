@@ -39,7 +39,7 @@ At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
-### More Shows coming up in 2023! Details coming soon...
+### More Shows coming up in 2023! More details coming soon...<br>
 
 Saturday 19th August, Warwickshire Pride Performance, 15-minute show at 12:30.\
 Tuesday 19th of September - 'Elephant in the Room', Temperance Show at 19:00.\
