@@ -8,9 +8,11 @@ weight: 1
 date: 2023-02-08T19:28:43.947Z
 ---
 ## Leamprov at 'Art in the Park' at Jephson Gardens, Leamington Spa
+
 ### Saturday 5th August 2023 - Free event!<br><br>
 
 #### 30 minute shows at 11:30am and 2pm <br>
+
 #### Free 45 minute workshops for beginners at 12:15pm and 2:45pm
 
 ![](/uploads/d5e96ddd-dbf4-402e-942c-151f3fbb8801.jpg)
@@ -39,7 +41,7 @@ At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
 ### More Shows coming up in 2023! Details coming soon...
 
-Saturday 19th August, Warwickshire Pride Performance (15-minute set), 12:15\
-Tuesday 19th of September - Temperance Show (1 hour show)\
-Tuesday 31 October 2023 at Temperance\
-Tuesday 12th of December 2023 - Temperance Show (1 hour show)
+Saturday 19th August, Warwickshire Pride Performance (15-minute set), 12:15.\
+Tuesday 19th of September - 'Elephant in the Room', Temperance Show at 19:00.\
+Tuesday 31 October 2023 - 'Trick or Treat: A Halloween Improvised Comedy Special' at Temperance at 19:00.\
+Tuesday 12th of December 2023 - 'A Christmas Improvised Comedy Special,' at Temperance Show at 19:00.
