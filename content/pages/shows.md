@@ -61,7 +61,7 @@ At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
 ### Tuesday 12 December 2023 at 7:30pm (doors open at 7pm) - 9pm
 
-![]()
+![](/uploads/christmas-jumpers-copy-2.png)
 
 An Improvised Christmas comedy show! A selection of Christmas sketches and games followed by an improvised pantomime from your suggestions.
 
