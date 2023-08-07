@@ -31,11 +31,13 @@ Free Event!
 
 [Further Details Here](https://warwickshirepride.co.uk/pride-festival)
 
-At Pump Room Gardens, Leamington Spa, CV32 4AA - you'll find us at Stand 36 - right by the stage and the beer tent!
+At Pump Room Gardens, Leamington Spa, CV32 4AA (- come and find us at Stand 36 right by the stage and the beer tent!)
 
 ## 'Elephant in the Room'
 
 ### Saturday 19 August 2023 at 12:30
+
+![](/uploads/owen-clare-coral.png)
 
 An Improvised comedy show! Performers will use audience suggestions to create quick fire comedy sketches and games for your enjoyment.
 
@@ -46,6 +48,8 @@ At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 ## 'Trick or Treat: A Halloween Improvised Comedy Special'
 
 ### Tuesday 31 August 2023 at 7:30pm (doors open at 7pm) - 9pm
+
+
 
 An Improvised Halloween comedy show! A selection of spooky sketches and games followed by an improvised horror movie from your suggestions.
 
