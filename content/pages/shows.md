@@ -5,7 +5,7 @@ menu:
     identifier: github-repo-theme
     weight: 3
 weight: 1
-date: 2023-02-08T19:28:43.947Z
+date: 2023-08-07T15:10:33.237Z
 ---
 ## 'Flopbusters: an Improvised Comedy Show'
 
@@ -23,7 +23,7 @@ At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
 ### Saturday 19 August 2023 at 12:30
 
-![]()
+
 
 **An Improvised comedy show! Performers will use audience suggestions to create quick fire comedy sketches and games for your enjoyment.**
 
