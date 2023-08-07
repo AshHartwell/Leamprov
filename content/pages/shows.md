@@ -21,7 +21,7 @@ At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
 ## 'Warwickshire Pride'
 
-### Saturday 19 August 2023 at 12:30
+### Saturday 19 August 2023 at 12:30pm
 
 ![](/uploads/pride-2022.png)
 
@@ -37,7 +37,7 @@ At Pump Room Gardens, Leamington Spa, CV32 4AA (- come and find us at Stand 36 r
 
 ### Saturday 19 August 2023 at 12:30
 
-![](/uploads/owen-clare-coral.jpg)
+![](/uploads/rai-leigh-kate-ben.jpg)
 
 An Improvised comedy show! Performers will use audience suggestions to create quick fire comedy sketches and games for your enjoyment.
 
