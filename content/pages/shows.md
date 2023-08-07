@@ -25,7 +25,7 @@ At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
 ![](/uploads/pride-2022.png)
 
-**An Improvised comedy show! Performers will use audience suggestions to create quick fire comedy sketches and games for your enjoyment.**
+An Improvised comedy show! Performers will use audience suggestions to create quick fire comedy sketches and games for your enjoyment.
 
 Free Event!
 
@@ -37,7 +37,7 @@ At Pump Room Gardens, Leamington Spa, CV32 4AA - you'll find us at Stand 36 - ri
 
 ### Saturday 19 August 2023 at 12:30
 
-**An Improvised comedy show! Performers will use audience suggestions to create quick fire comedy sketches and games for your enjoyment.**
+An Improvised comedy show! Performers will use audience suggestions to create quick fire comedy sketches and games for your enjoyment.
 
 [Buy Tickets Here](https://www.eventbrite.com/e/a-christmas-improvised-comedy-special-tickets-678849726807?aff=ebdssbdestsearch&from=6ff34305352e11eeaecb76c6e69a5a02&keep_tld=1)
 
@@ -47,7 +47,7 @@ At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
 ### Tuesday 31 August 2023 at 7:30pm (doors open at 7pm) - 9pm
 
-**An Improvised Halloween comedy show! A selection of spooky sketches and games followed by an improvised horror movie from your suggestions.**
+An Improvised Halloween comedy show! A selection of spooky sketches and games followed by an improvised horror movie from your suggestions.
 
 [Buy Tickets Here](https://www.eventbrite.com/e/trick-or-treat-a-halloween-improvised-comedy-special-tickets-678836276577?aff=ebdssbdestsearch&from=6ff34305352e11eeaecb76c6e69a5a02&keep_tld=1)
 
@@ -57,7 +57,7 @@ At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
 ### Tuesday 12 December 2023 at 7:30pm (doors open at 7pm) - 9pm
 
-**An Improvised Christmas comedy show! A selection of Christmas sketches and games followed by an improvised pantomime from your suggestions.**
+An Improvised Christmas comedy show! A selection of Christmas sketches and games followed by an improvised pantomime from your suggestions.
 
 [Buy Tickets Here](https://www.eventbrite.com/e/a-christmas-improvised-comedy-special-tickets-678849726807?aff=ebdssbdestsearch&from=6ff34305352e11eeaecb76c6e69a5a02&keep_tld=1)
 
