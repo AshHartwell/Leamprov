@@ -49,7 +49,7 @@ At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
 ### Tuesday 31 August 2023 at 7:30pm (doors open at 7pm) - 9pm
 
-![]()
+![](/uploads/temperance-.png)
 
 An Improvised Halloween comedy show! A selection of spooky sketches and games followed by an improvised horror movie from your suggestions.
 
@@ -60,6 +60,8 @@ At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 ## 'A Christmas Improvised Comedy Special'
 
 ### Tuesday 12 December 2023 at 7:30pm (doors open at 7pm) - 9pm
+
+![]()
 
 An Improvised Christmas comedy show! A selection of Christmas sketches and games followed by an improvised pantomime from your suggestions.
 
