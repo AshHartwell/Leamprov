@@ -23,6 +23,8 @@ At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
 ### Saturday 19 August 2023 at 12:30
 
+![]()
+
 **An Improvised comedy show! Performers will use audience suggestions to create quick fire comedy sketches and games for your enjoyment.**
 
 Free Event!
