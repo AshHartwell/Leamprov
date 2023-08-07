@@ -41,7 +41,7 @@ At Pump Room Gardens, Leamington Spa, CV32 4AA (- come and find us at Stand 36 r
 
 An Improvised comedy show! Performers will use audience suggestions to create quick fire comedy sketches and games for your enjoyment.
 
-[Buy Tickets Here](https://www.eventbrite.com/e/a-christmas-improvised-comedy-special-tickets-678849726807?aff=ebdssbdestsearch&from=6ff34305352e11eeaecb76c6e69a5a02&keep_tld=1)
+[Buy Tickets Here](https://www.eventbrite.com/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-678829566507?aff=ebdssbdestsearch&from=c737a98a353e11eeac889ebeee2b6af5&keep_tld=1)
 
 At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
