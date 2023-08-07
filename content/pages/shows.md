@@ -35,7 +35,7 @@ At Pump Room Gardens, Leamington Spa, CV32 4AA (- come and find us at Stand 36 r
 
 ## 'Elephant in the Room'
 
-### Saturday 19 August 2023 at 12:30
+### Saturday 19 September 2023 at 7:30pm (doors open at 7pm) - 9pm
 
 ![](/uploads/rai-leigh-kate-ben.jpg)
 
