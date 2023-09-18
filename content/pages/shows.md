@@ -7,32 +7,6 @@ menu:
 weight: 1
 date: 2023-08-07T15:15:37.701Z
 ---
-## 'Flopbusters: an Improvised Comedy Show'
-
-### Tuesday 8 August 2023 at 7:30pm (doors open at 7pm) - 9pm
-
-![](/uploads/posed-everyone-kirsty-mouth-open.jpg)
-
-An Improvised Comedy Show where your movie suggestion is instantly turned into Hollywood's next Blockbuster!
-
-At Temperance, 33 Bath St, Leamington Spa CV31 3AF
-
-[Buy Tickets Here](https://www.eventbrite.co.uk/e/flopbusters-improvised-comedy-tickets-671654224867?aff=ebdsoporgprofile)
-
-## 'Warwickshire Pride'
-
-### Saturday 19 August 2023 at 12:30pm
-
-![](/uploads/pride-2022.png)
-
-An Improvised comedy show! Performers will use audience suggestions to create quick fire comedy sketches and games for your enjoyment.
-
-Free Event!
-
-[Further Details Here](https://warwickshirepride.co.uk/pride-festival)
-
-At Pump Room Gardens, Leamington Spa, CV32 4AA (- come and find us at Stand 36 right by the stage and the beer tent!)
-
 ## 'Elephant in the Room'
 
 ### Saturday 19 September 2023 at 7:30pm (doors open at 7pm) - 9pm
