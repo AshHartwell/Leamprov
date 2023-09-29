@@ -7,18 +7,6 @@ menu:
 weight: 1
 date: 2023-08-07T15:15:37.701Z
 ---
-## 'Elephant in the Room'
-
-### Saturday 19 September 2023 at 7:30pm (doors open at 7pm) - 9pm
-
-![](/uploads/rai-leigh-kate-ben.jpg)
-
-An Improvised comedy show! Performers will use audience suggestions to create quick fire comedy sketches and games for your enjoyment.
-
-[Buy Tickets Here](https://www.eventbrite.com/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-678829566507?aff=ebdssbdestsearch&from=c737a98a353e11eeac889ebeee2b6af5&keep_tld=1)
-
-At Temperance, 33 Bath St, Leamington Spa CV31 3AF
-
 ## 'Trick or Treat: A Halloween Improvised Comedy Special'
 
 ### Tuesday 31 October 2023 at 7:30pm (doors open at 7pm) - 9pm
