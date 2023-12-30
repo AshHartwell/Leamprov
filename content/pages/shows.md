@@ -7,15 +7,21 @@ menu:
 weight: 1
 date: 2023-08-07T15:15:37.701Z
 ---
-## 'A Christmas Improvised Comedy Special'
+## 'Leamprov Presents...Yes, And!'
 
-### Tuesday 12 December 2023 at 7:30pm (doors open at 7pm) - 9pm
+Leamprov Presents... Yes, And! A monthly night of improvised comedy at the fabulous Temperance Cafe and Bar! 
 
-![](/uploads/christmas-jumpers-copy-2.png)
+### The Second Tuesday of Every Month (starting 9 January 2023) from 7:30 to 9:15pm (doors open at 7pm)
 
-An Improvised Christmas comedy show! A selection of Christmas sketches and games followed by an improvised pantomime from your suggestions.
+![](/uploads/posed-everyone-kirsty-mouth-open.jpg)
 
-[Buy Tickets Here](https://www.eventbrite.com/e/a-christmas-improvised-comedy-special-tickets-678849726807?aff=ebdssbdestsearch&from=6ff34305352e11eeaecb76c6e69a5a02&keep_tld=1)
+Leamprov Presents... Yes, And! A monthly night of improvised comedy at the fabulous Temperance Cafe and Bar! 
+
+Come join us for jokes and japes a-plenty from our fantastic Leamprov house team who will be doing their classic short form show 'The Elephant in The Room' followed by a comedy sports style showdown! 
+
+Grab a drink, settle in to our lovely basement theater, and preparing for an evening of the best comedy ever made up on that evening!
+
+[Buy Tickets Here](https://https://www.eventbrite.co.uk/e/leamprov-presentsyes-and-tickets-780886702147?aff=ebdssbdestsearch)
 
 At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
