@@ -25,11 +25,9 @@ Grab a drink, settle in to our lovely basement theater, and preparing for an eve
 
 At Temperance, 33 Bath St, Leamington Spa CV31 3AF
 
-
-
 # Leamprov's 'Flopbusters' at Leicester Comedy Festival
 
-F﻿lopbusters - An Improvised Movie is an improvised comedy show where a movie will be written and performed in-front of your eyes. Will it be the next Blockbuster or Hollywood's next flop? You decide!
+'F﻿lopbusters' is an improvised comedy show where a movie will be written and performed in-front of your very eyes. Will it be the next Blockbuster or Hollywood's next flop? You decide!
 
 ### Friday 23 February 2024
 
@@ -46,11 +44,9 @@ Flopbusters is created by the long form comedy troupe of the Leamprov Improvised
 
 At the Knight & Garter, 14 Hotel St, Leicester LE1 5AW, UK
 
-
-
 # Leamprov's 'Elephant in the Room' at Leicester Comedy Festival
 
-Our regular sell-out show format, where we take inspiration from audience suggestions and create comedy scenes off the cuff! 
+'Elephant in the Room;  is our regular sell-out show format, where we take inspiration from audience suggestions, and create comedy scenes off the cuff! 
 
 ### Saturday 24 February 2024
 
@@ -61,8 +57,6 @@ Our regular sell-out show format, where we take inspiration from audience sugges
 [Further details and tickets here](https://comedy-festival.co.uk)
 
 At the Knight & Garter, 14 Hotel St, Leicester LE1 5AW, UK
-
-
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
