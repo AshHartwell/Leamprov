@@ -17,9 +17,9 @@ Leamprov Presents... Yes, And! A monthly night of improvised comedy at the fabul
 
 ![](/uploads/posed-everyone-kirsty-mouth-open.jpg)
 
-Come join us for jokes and japes a-plenty from our fantastic Leamprov house team who will be doing their classic short form show 'The Elephant in The Room' followed by a comedy sports style showdown! 
+Come join us for jokes and japes a-plenty from our fantastic Leamprov house team who will be doing their classic short form show 'The Elephant in The Room.'
 
-Grab a drink, settle in to our lovely basement theater, and preparing for an evening of the best comedy ever made up on that evening!
+Grab a drink, settle in to our lovely basement theatre, and preparing for an evening of comedy made up on that evening!
 
 [Buy Tickets Here](https://www.eventbrite.co.uk/e/leamprov-presentsyes-and-tickets-780886702147?aff=ebdssbdestsearch)
 
@@ -31,11 +31,9 @@ Leamprov will provide a morning workshop and also an afternoon festival at The F
 
 ### Friday 30 March 2024
 
-### (More details coming soon...) 
+### (More details coming soon...)
 
 ![](/uploads/sam-ben-and-elena-.jpg)
-
- 
 
 At the SYNDNI Centre, Cottage Square, Sydenham\
 Leamington Spa, Warwickshire, CV31 1PT
@@ -43,15 +41,13 @@ Leamington Spa, Warwickshire, CV31 1PT
 \
 ‍
 
-# Leamprov's Long Form Troupe at The Brighton Fringe 
+# Leamprov's Long Form Troupe at The Brighton Fringe
 
 ### Saturday 27 May 2024
 
 ### (More details coming soon...)
 
 ![](/uploads/rai-leigh-kate-ben.jpg)
-
-
 
 # Leamprov's Long Form Troupe at The Birmingham Improv Jam
 
@@ -60,8 +56,6 @@ Leamington Spa, Warwickshire, CV31 1PT
 ### (More details coming soon...)
 
 ![](/uploads/rai-leigh-kate-ben.jpg)
-
-
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
