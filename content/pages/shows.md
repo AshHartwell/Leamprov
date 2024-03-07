@@ -55,7 +55,7 @@ Leamington Spa, Warwickshire, CV31 1PT
 
 ### (More details coming soon...)
 
-![](/uploads/rai-leigh-kate-ben.jpg)
+![](/uploads/owen-clare-coral.jpg)
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
