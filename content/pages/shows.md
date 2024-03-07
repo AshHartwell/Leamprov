@@ -9,7 +9,7 @@ date: 2023-08-07T15:15:37.701Z
 ---
 # 'Leamprov Presents...Yes, And!'
 
-Leamprov Presents... Yes, And! A monthly night of improvised comedy at the fabulous Temperance Cafe and Bar! 
+Leamprov Presents... 'Yes, And...!' A monthly night of improvised comedy at the fabulous Temperance Cafe and Bar.
 
 ### The Second Tuesday of Every Month
 
