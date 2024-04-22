@@ -7,7 +7,7 @@ menu:
 weight: 1
 date: 2023-08-07T15:15:37.701Z
 ---
-## Leamprov Presents: Yes, And...!
+Leamprov Presents: Yes, And...!
 
 ![](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F743987489%2F633112721173%2F1%2Foriginal.20240415-174254?w=940&auto=format%2Ccompress&q=75&sharp=10&s=de2ee4bb5dd158e42e9febb010756fbd)
 
