@@ -55,7 +55,7 @@ Leamington Spa, Warwickshire, CV31 1PT
 
 ### (More details coming soon...)
 
-![](/uploads/owen-clare-coral.jpg)
+<https://www.eventbrite.co.uk/e/leamprov-presents-yes-and-tickets-883466049737?aff=ebdshpsearchautocomplete>
 
 #### Come along and join the improv party! 🎉 <br><br><br>
 
