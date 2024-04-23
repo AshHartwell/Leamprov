@@ -23,5 +23,6 @@ Tues 14th May, 7:30pm (doors 7pm) Temperance, 33 Bath St, Leamington Spa CV31 3A
 
 ## Other Upcoming Shows:
 
-\
-Watch this space for future shows!
+
+
+Buy Tickets
