@@ -1,5 +1,5 @@
 ---
-title: We Are Leamprov.
+title: We are Leamprov -Leamington Spa's premier improv troupe!
 weight: 1
 date: 2023-02-06T21:36:43.161Z
 ---
