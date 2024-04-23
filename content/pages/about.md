@@ -14,5 +14,3 @@ Our popular live show, 'Yes, And...!' takes place every month at Temperance, sho
 The group was founded and is managed by James Cannon, who has over 8 years of experience doing improvised comedy, performing across the country in a number of different improvised troupes.\
 \
 Leamprov aims to provide a supportive and welcoming environment to people of all ages, genders, ethnic backgrounds, physical abilities, cultural views, sexual orientations, religions, and nationalities, and are currently working to encourage greater diversity and accessibility in the improv scene.
-
-<!--/data/user/0/com.samsung.and
