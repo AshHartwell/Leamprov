@@ -23,6 +23,12 @@ Tues 14th May, 7:30pm (doors 7pm) Temperance, 33 Bath St, Leamington Spa CV31 3A
 
 ## Other Upcoming Shows:
 
+![](https://www.edfringe.com/uploads/event/2024ELEPHAN_JE.jpg)
 
+## Edinburgh Fringe Festival: The Elephant in the Room -An Improvised Comedy Show
 
-Buy Tickets
+\
+13-18 August 2024, 12pm Just The Tonic at the Caves\
+The Rowantree, 253 Cowgate, EH1 1LG\
+\
+[Buy Tickets](https://edinburgh.justthetonic.com/event/88:4221/)
