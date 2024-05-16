@@ -17,9 +17,13 @@ Our side-splitting regular night of improvised comedy takes place on the second 
 ## Upcoming dates:
 
 \
-Tues 14th May, 7:30pm (doors 7pm) Temperance, 33 Bath St, Leamington Spa CV31 3AF\
+Tues 11th June, 7:30[](https://www.eventbrite.co.uk/e/copy-of-leamprov-presents-yes-and-tickets-905127750467?aff=erelexpmlt&_gl=1*p777ni*_up*MQ..*_ga*MTI4ODgwODc5NC4xNzE1ODkxOTUz*_ga_TQVES5V6SH*MTcxNTg5MTk1My4xLjAuMTcxNTg5MTk1My4wLjAuMA..)pm (doors 7pm) Temperance, 33 Bath St, Leamington Spa CV31 3AF
 \
-[Buy Tickets](https://www.eventbrite.co.uk/e/leamprov-presents-yes-and-tickets-883466049737?aff=erelexpmlt)
+[Buy Tickets](<https://www.eventbrite.co.uk/e/copy-of-leamprov-presents-yes-and-tickets-905127750467?aff=erelexpmlt&_gl=1*p777ni*_up*MQ..*_ga*MTI4ODgwODc5NC4xNzE1ODkxOTUz*_ga_TQVES5V6SH*MTcxNTg5MTk1My4xLjAuMTcxNTg5MTk1My4wLjAuMA..
+
+>)
+
+
 
 ## Other Upcoming Shows:
 
