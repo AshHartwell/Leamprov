@@ -7,7 +7,11 @@ menu:
 weight: 1
 date: 2023-08-07T15:15:37.701Z
 ---
-# Leamprov Presents: Yes, And...!
+# [https://www.eventbrite.co.uk/e/copy-of-leamprov-presents-yes-and-tickets-905127750467?aff=erelexpmlt&_gl=1\*p777ni\*_up\*MQ..\*_ga\*MTI4ODgwODc5NC4xNzE1ODkxOTUz\*_ga_TQVES5V6SH*MTcxNTg5MTk1My4xLjAuMTcxNTg5MTk1My4wLjAuMA..
+
+](<https://www.eventbrite.co.uk/e/copy-of-leamprov-presents-yes-and-tickets-905127750467?aff=erelexpmlt&_gl=1*p777ni*_up*MQ..*_ga*MTI4ODgwODc5NC4xNzE1ODkxOTUz*_ga_TQVES5V6SH*MTcxNTg5MTk1My4xLjAuMTcxNTg5MTk1My4wLjAuMA..
+
+>)Leamprov Presents: Yes, And...!
 
 ![](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F743987489%2F633112721173%2F1%2Foriginal.20240415-174254?w=940&auto=format%2Ccompress&q=75&sharp=10&s=de2ee4bb5dd158e42e9febb010756fbd)
 
@@ -19,11 +23,9 @@ Our side-splitting regular night of improvised comedy takes place on the second 
 \
 Tues 11th June, 7:30[](https://www.eventbrite.co.uk/e/copy-of-leamprov-presents-yes-and-tickets-905127750467?aff=erelexpmlt&_gl=1*p777ni*_up*MQ..*_ga*MTI4ODgwODc5NC4xNzE1ODkxOTUz*_ga_TQVES5V6SH*MTcxNTg5MTk1My4xLjAuMTcxNTg5MTk1My4wLjAuMA..)pm (doors 7pm) Temperance, 33 Bath St, Leamington Spa CV31 3AF
 \
-[Buy Tickets](<https://www.eventbrite.co.uk/e/copy-of-leamprov-presents-yes-and-tickets-905127750467?aff=erelexpmlt&_gl=1*p777ni*_up*MQ..*_ga*MTI4ODgwODc5NC4xNzE1ODkxOTUz*_ga_TQVES5V6SH*MTcxNTg5MTk1My4xLjAuMTcxNTg5MTk1My4wLjAuMA..
+\[Buy Tickets](<https://www.eventbrite.co.uk/e/copy-of-leamprov-presents-yes-and-tickets-905127750467?aff=erelexpmlt&_gl=1*p777ni*_up*MQ..*_ga*MTI4ODgwODc5NC4xNzE1ODkxOTUz*_ga_TQVES5V6SH*MTcxNTg5MTk1My4xLjAuMTcxNTg5MTk1My4wLjAuMA..
 
->)
-
-
+> )
 
 ## Other Upcoming Shows:
 
