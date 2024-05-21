@@ -29,11 +29,19 @@ At Temperance Bar, 33 Bath Street, Leamington Spa, CV31 3AF
 
 ### Tuesday 13 to Sunday 18 August 2024
 
-
-
 ![](/uploads/elephant-in-the-room-square-coloured-copy.png)
 
 At Just the Tonic at the Caves, The Rowantree, 253 Cowgate, Edinburgh, EH1 1LG
 
 \
 [B](https://edinburgh.justthetonic.com/event/88:4221/)[uy Tickets](https://edinburgh.justthetonic.com/event/88:4221/)
+
+## Warwick Pursuits Festival: The Elephant in the Room - An Improvised Comedy Show
+
+### Saturday 22 June 2024
+
+![](/uploads/d5e96ddd-dbf4-402e-942c-151f3fbb8801.jpg)
+
+At St Nicolas Park, Warwick, CV34 4QY.
+
+[More details here](https://www.pursuitsfestival.co.uk/warwick-pursuits-festival)
