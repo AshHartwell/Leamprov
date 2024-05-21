@@ -9,6 +9,8 @@ date: 2023-08-07T15:15:37.701Z
 ---
 # Leamprov Presents: Yes, And...!
 
+### Every Second Tuesday of the Month at Temperance Bar, Leamington Spa
+
 ![](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F743987489%2F633112721173%2F1%2Foriginal.20240415-174254?w=940&auto=format%2Ccompress&q=75&sharp=10&s=de2ee4bb5dd158e42e9febb010756fbd)
 
 \
@@ -16,14 +18,21 @@ Our side-splitting regular night of improvised comedy takes place on the second 
 
 ## Upcoming dates:
 
-\
-Tues 11th June, 7:30pm (doors 7pm) Temperance, 33 Bath St, Leamington Spa CV31 3AF
-\
-[Buy Tickets](<https://www.eventbrite.co.uk/e/copy-of-leamprov-presents-yes-and-tickets-905127750467?aff=erelexpmlt&_gl=1*p777ni*_up*MQ..*_ga*MTI4ODgwODc5NC4xNzE1ODkxOTUz*_ga_TQVES5V6SH*MTcxNTg5MTk1My4xLjAuMTcxNTg5MTk1My4wLjAuMA..
+11 June 2024, 9 July 2024, 13 August, 2024, 10 September 2024, 8 October 2024, 12 November 2024, 10 December 2024.
 
->)
+[B﻿uy Tickets](https:https://www.eventbrite.co.uk/e/copy-of-leamprov-presents-yes-and-tickets-905127750467?aff=ebdssbdestsearch&_gl=1*1guook*_up*MQ..*_ga*MTQzMDk5NDcwMy4xNzE2Mjc3MTE4*_ga_TQVES5V6SH*MTcxNjI3NzExOC4xLjAuMTcxNjI3NzExOC4wLjAuMA..)
 
+At Temperance Bar, 33 Bath Street, Leamington Spa, CV31 3AF
 
+## T﻿he Elephant In The Room: An Improvised Comedy Show
+
+### Tuesday 4 April 2023, 7pm (for 7:30 start) until 8:40, Temperance Bar, Leamington Spa
+
+At Temperance Bar, 33 Bath Street, Leamington Spa, CV31 3AF
+
+[B﻿uy Tickets](https://www.eventbrite.co.uk/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-557163369637?aff=ebdssbdestsearch)
+
+Come along and join the improv party! 🎉 
 
 ## Other Upcoming Shows:
 
