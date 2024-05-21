@@ -38,10 +38,14 @@ At Just the Tonic at the Caves, The Rowantree, 253 Cowgate, Edinburgh, EH1 1LG
 
 ## Warwick Pursuits Festival: The Elephant in the Room - An Improvised Comedy Show
 
-### Saturday 22 June 2024
+### Saturday 22 June 2024 at Midday
 
 ![](/uploads/d5e96ddd-dbf4-402e-942c-151f3fbb8801.jpg)
 
 At St Nicolas Park, Warwick, CV34 4QY.
 
 [More details here](https://www.pursuitsfestival.co.uk/warwick-pursuits-festival)
+
+
+
+
