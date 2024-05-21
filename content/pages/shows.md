@@ -20,28 +20,20 @@ Our side-splitting regular night of improvised comedy takes place on the second 
 
 11 June 2024, 9 July 2024, 13 August, 2024, 10 September 2024, 8 October 2024, 12 November 2024, 10 December 2024.
 
+\
+At Temperance Bar, 33 Bath Street, Leamington Spa, CV31 3AF
+
 [B﻿uy Tickets](https://www.eventbrite.co.uk/e/copy-of-leamprov-presents-yes-and-tickets-905127750467?aff=ebdssbdestsearch&_gl=1*1qhya4e*_up*MQ..*_ga*MTgwOTc4MzY2OS4xNzE2Mjc3NTU1*_ga_TQVES5V6SH*MTcxNjI3NzU1NC4xLjAuMTcxNjI3NzU1NC4wLjAuMA..)
 
-At Temperance Bar, 33 Bath Street, Leamington Spa, CV31 3AF
+## Edinburgh Fringe Festival: The Elephant in the Room - An Improvised Comedy Show
 
-## T﻿he Elephant In The Room: An Improvised Comedy Show
+### Tuesday 13 to Sunday 18 August 2024
 
-### Tuesday 4 April 2023, 7pm (for 7:30 start) until 8:40, Temperance Bar, Leamington Spa
 
-At Temperance Bar, 33 Bath Street, Leamington Spa, CV31 3AF
 
-[B﻿uy Tickets](https://www.eventbrite.co.uk/e/the-elephant-in-the-room-an-improvised-comedy-show-tickets-557163369637?aff=ebdssbdestsearch)
+![](/uploads/elephant-in-the-room-square-coloured-copy.png)
 
-Come along and join the improv party! 🎉 
-
-## Other Upcoming Shows:
-
-![](https://www.edfringe.com/uploads/event/2024ELEPHAN_JE.jpg)
-
-## Edinburgh Fringe Festival: The Elephant in the Room -An Improvised Comedy Show
+At Just the Tonic at the Caves, The Rowantree, 253 Cowgate, Edinburgh, EH1 1LG
 
 \
-13-18 August 2024, 12pm Just The Tonic at the Caves\
-The Rowantree, 253 Cowgate, EH1 1LG\
-\
-[Buy Tickets](https://edinburgh.justthetonic.com/event/88:4221/)
+[B](https://edinburgh.justthetonic.com/event/88:4221/)[uy Tickets](https://edinburgh.justthetonic.com/event/88:4221/)
