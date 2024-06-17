@@ -25,17 +25,6 @@ At Temperance Bar, 33 Bath Street, Leamington Spa, CV31 3AF
 
 [B﻿uy Tickets](https://www.eventbrite.co.uk/e/copy-of-leamprov-presents-yes-and-tickets-905127750467?aff=ebdssbdestsearch&_gl=1*1qhya4e*_up*MQ..*_ga*MTgwOTc4MzY2OS4xNzE2Mjc3NTU1*_ga_TQVES5V6SH*MTcxNjI3NzU1NC4xLjAuMTcxNjI3NzU1NC4wLjAuMA..)
 
-## Edinburgh Fringe Festival: The Elephant in the Room - An Improvised Comedy Show
-
-### Tuesday 13 to Sunday 18 August 2024
-
-![](/uploads/elephant-in-the-room-square-coloured-copy.png)
-
-At Just the Tonic at the Caves, The Rowantree, 253 Cowgate, Edinburgh, EH1 1LG
-
-\
-[B](https://edinburgh.justthetonic.com/event/88:4221/)[uy Tickets](https://edinburgh.justthetonic.com/event/88:4221/)
-
 ## Warwick Pursuits Festival: The Elephant in the Room - An Improvised Comedy Show
 
 ### Saturday 22 June 2024 at Midday
@@ -48,4 +37,13 @@ At St Nicolas Park, Warwick, CV34 4QY.
 
 
 
+## Edinburgh Fringe Festival: The Elephant in the Room - An Improvised Comedy Show
 
+### Tuesday 13 to Sunday 18 August 2024
+
+![](/uploads/elephant-in-the-room-square-coloured-copy.png)
+
+At Just the Tonic at the Caves, The Rowantree, 253 Cowgate, Edinburgh, EH1 1LG
+
+\
+[B](https://edinburgh.justthetonic.com/event/88:4221/)[uy Tickets](https://edinburgh.justthetonic.com/event/88:4221/)
