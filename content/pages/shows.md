@@ -18,13 +18,11 @@ At Just the Tonic at the Caves, The Rowantree, 253 Cowgate, Edinburgh, EH1 1LG
 \
 [B](https://edinburgh.justthetonic.com/event/88:4221/)[uy Tickets](https://edinburgh.justthetonic.com/event/88:4221/)
 
-
-
 # Leamprov Presents: Yes, And...!
 
 ### The Second Tuesday of the Month at Temperance Bar, Leamington Spa
 
-![](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F743987489%2F633112721173%2F1%2Foriginal.20240415-174254?w=940&auto=format%2Ccompress&q=75&sharp=10&s=de2ee4bb5dd158e42e9febb010756fbd)
+![](/uploads/three-elephants-colour-.svg)
 
 \
 Our side-splitting regular night of improvised comedy takes place on the second Tuesday of each month at Temperance.
