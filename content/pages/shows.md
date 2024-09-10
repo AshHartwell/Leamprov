@@ -7,17 +7,6 @@ menu:
 weight: 1
 date: 2023-08-07T15:15:37.701Z
 ---
-## Edinburgh Fringe Festival: The Elephant in the Room - An Improvised Comedy Show
-
-### Tuesday 13 to Sunday 18 August 2024
-
-![](/uploads/3070d198-1534-4830-9ade-ce03ac13abb4.jpeg)
-
-At Just the Tonic at the Caves, The Rowantree, 253 Cowgate, Edinburgh, EH1 1LG
-
-\
-[B](https://edinburgh.justthetonic.com/event/88:4221/)[uy Tickets](https://edinburgh.justthetonic.com/event/88:4221/)
-
 # Leamprov Presents: Yes, And...!
 
 ### The Second Tuesday of the Month at Temperance Bar, Leamington Spa
