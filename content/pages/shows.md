@@ -9,7 +9,7 @@ date: 2023-08-07T15:15:37.701Z
 ---
 # Leamprov Presents: Yes, And...!
 
-### The Second Tuesday of the Month at Temperance Bar, Leamington Spa. (Doors open at 7pm with show start at 7:30pm)
+### The Second Tuesday of the Month at Temperance Bar, Leamington Spa (Doors open at 7pm with show start at 7:30pm)
 
 ![](/uploads/three-elephants-colour-.svg)
 
