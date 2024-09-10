@@ -18,7 +18,7 @@ Our side-splitting regular night of improvised comedy takes place on the second 
 
 ## Upcoming dates:
 
-## 10 September 2024, 8 October 2024, 12 November 2024, 10 December 2024.
+## 10 September 2024, 8 October 2024 (for Halloween Spooky Special!), 12 November 2024, 10 December 2024.
 
 \
 At Temperance Bar, 33 Bath Street, Leamington Spa, CV31 3AF
