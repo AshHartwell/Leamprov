@@ -13,8 +13,7 @@ date: 2023-08-07T15:15:37.701Z
 
 ![](/uploads/xmas.png)
 
-#### \
-An exciting Christmas double-bill! First, our wonderful short form troupe will perform a selection of Christmas sketches and games, followed by our long-form troupe creating an improvised pantomime from your suggestions. Come and join the silly festive fun! 
+#### An exciting Christmas double-bill! First, our wonderful short form troupe will perform a selection of Christmas sketches and games, followed by our long-form troupe creating an improvised pantomime from your suggestions. Come and join the silly festive fun! 
 
 At Temperance Bar, 33 Bath Street, Leamington Spa, CV31 3AF
 
