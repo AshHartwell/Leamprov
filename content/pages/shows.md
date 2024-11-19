@@ -7,14 +7,14 @@ menu:
 weight: 1
 date: 2023-08-07T15:15:37.701Z
 ---
-# A Christmas Improvised Comedy Special! 
+# A Christmas Improvised Comedy Special!
 
 ### Tuesday, 10 December 2024 at Temperance Bar, Leamington Spa (Doors open at 7pm with show start at 7:30pm)
 
 ![](/uploads/xmas.png)
 
-\
-**An exciting Christmas double-bill! First, our wonderful short form troupe will perform a selection of Christmas sketches and games, followed by our long-form troupe creating an improvised pantomime from your suggestions. Come and join the silly festive fun!** 
+#### \
+An exciting Christmas double-bill! First, our wonderful short form troupe will perform a selection of Christmas sketches and games, followed by our long-form troupe creating an improvised pantomime from your suggestions. Come and join the silly festive fun! 
 
 At Temperance Bar, 33 Bath Street, Leamington Spa, CV31 3AF
 
