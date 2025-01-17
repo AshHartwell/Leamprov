@@ -17,7 +17,7 @@ date: 2023-08-07T15:15:37.701Z
 
 ##### At Temperance Bar, 33 Bath Street, Leamington Spa, CV31 3AF
 
-[B﻿uy Tickets](https://www.eventbrite.co.uk/e/a-christmas-improvised-comedy-special-tickets-1063548906409?aff=erelexpmlt&_gl=1*1unrhv3*_up*MQ..*_ga*MTk3ODc1ODIyNi4xNzMyMDM3NzY3*_ga_TQVES5V6SH*MTczMjAzNzc2Ny4xLjAuMTczMjAzNzc2Ny4wLjAuMA..)
+[Eventbrite for Further Info and Tickets](https://https://www.eventbrite.com/o/36111582913)
 
 # Leamprov at Leicester Comedy Festival!
 
