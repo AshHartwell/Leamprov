@@ -7,13 +7,13 @@ menu:
 weight: 1
 date: 2023-08-07T15:15:37.701Z
 ---
-# A Christmas Improvised Comedy Special!
+# Leamprov at Temperance
 
-### Tuesday, 10 December 2024 at Temperance Bar, Leamington Spa (Doors open at 7pm with show start at 7:30pm)
+### Every second Tuesday at Temperance Bar, Leamington Spa (Doors open at 7pm with show start at 7:30pm)
 
-![](/uploads/xmas.png)
+![](/uploads/rai-leigh-kate-ben.jpg)
 
-#### An exciting Christmas double-bill! First, our wonderful short form troupe will perform a selection of Christmas sketches and games, followed by our long-form troupe creating an improvised pantomime from your suggestions. Come and join the silly festive fun!
+#### Shows include a mixture of our popular short form games, as performed at the Edinburgh Fringe. We also often include our long form troupe and enjoy celebrating specials days within our performances such as International Women's Day, Valentines Day, Halloween, and look out for our annual Christmas improv panto!
 
 ##### At Temperance Bar, 33 Bath Street, Leamington Spa, CV31 3AF
 
