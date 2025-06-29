@@ -17,7 +17,7 @@ date: 2023-08-07T15:15:37.701Z
 
 ##### At Temperance Bar, 33 Bath Street, Leamington Spa, CV31 3AF
 
-[Eventbrite for Further Info and Tickets](https://www.eventbrite.com/o/36111582913)
+[Eventbrite for Further Info and Tickets](https://www.eventbrite.com/e/leamprov-presents-yes-and-tickets-1364562446009?aff=ebdssbdestsearch&keep_tld=1)
 
 # Leamprov at Leicester Comedy Festival!
 
