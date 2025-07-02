@@ -13,7 +13,7 @@ date: 2023-08-07T15:15:37.701Z
 
 ![](/uploads/sam-ben-and-elena-.jpg)
 
-#### Shows include a mixture of our popular short form games, as performed at the Edinburgh Fringe. We also often include our long form troupe and enjoy celebrating specials days within our performances such as International Women's Day, Valentines Day, Halloween, and look out for our annual Christmas improv panto! 
+#### Shows include a mixture of our popular short form games, as performed at the Edinburgh Fringe. We also often include our long form troupe and enjoy celebrating specials days within our performances such as International Women's Day, Valentines Day, Halloween, and look out for our annual Christmas improv panto!
 
 #### Each Tuesday performance is completely unique!
 
@@ -44,18 +44,6 @@ We will be performing comedy sketches and theatre games crafted from suggestions
 #### Underground Spring Garden, Buxton
 
 [More information here](https://www.buxtonfringe.org.uk/descriptions2025.html)
-
-# Leamprov at The Edinburgh Fringe, August 1st to 25th, 2025
-
-### Once again Leamprov will perform at the Edinburgh Fringe Festival with their sell-out 'Elephant in the Room' show!
-
-![](/uploads/temperance-.png)
-
-#### 'Elephant in the Room' is our quick-fire improvised sketch show of fast paced short improv games and sketches. The Elephant in the Room is... we have no idea what the show will be about!
-
-#### Just the Tonic, at the Caves, Edinburgh.
-
-[Information Coming Soon here](https://edinburgh.justthetonic.com)
 
 # Leamprov at Missimp, Nottingham, Wednesday 17 September 2025
 
