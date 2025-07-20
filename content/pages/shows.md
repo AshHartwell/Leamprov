@@ -45,6 +45,8 @@ We will be performing comedy sketches and theatre games crafted from suggestions
 
 [More information here](https://www.buxtonfringe.org.uk/descriptions2025.html)
 
+[Buy tickets ](https://2025.underthefringe.com/shows/elephant-in-the-room)
+
 # Leamprov at Missimp, Nottingham, Wednesday 17 September 2025
 
 ### Come and give your laughter muscles a work out with three great acts from Nottingham and Leamington's Leamprov performing hilarious scenes and games for your amusement based on your suggestions.
