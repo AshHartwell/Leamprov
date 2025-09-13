@@ -6,7 +6,7 @@ date: 2023-03-08T16:10:26.641Z
 ---
 1. ## Code Snippet: Image Next To Text:
 
-Use the following code 
+Use the following code 2
 
 ```
 <table width="100%" BORDER="0">
